@@ -1,1 +1,5090 @@
-[]
+[
+    {
+        "name": "Shop on eBay",
+        "price": 2000,
+        "status": null,
+        "shipping": null,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Shop on eBay",
+        "price": 2000,
+        "status": null,
+        "shipping": null,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "AULA F2088 Typewriter Style Mechanical Gaming Keyboard,Rainbow LED Backlit,RemovOpens in a new window or tab",
+        "price": 4400,
+        "status": null,
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "HP GK100/ENG Mechanical Gaming Keyboard (ENGLISH)Opens in a new window or tab",
+        "price": 3450,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Gigastone GK-12 Wired Gaming Keyboard, RGB LED, Brown Switch Mechanical KeyboardOpens in a new window or tab",
+        "price": 5299,
+        "status": null,
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "New NuPhy Air 75 Wireless Mechanical Keyboard AIR75 Red SwitchesOpens in a new window or tab",
+        "price": 3499,
+        "status": null,
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "AULA F75 75% Wireless Mechanical Keyboard 2.4GHz/Type-C/BT5.0(Salt White Blue)Opens in a new window or tab",
+        "price": 3999,
+        "status": null,
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 6
+    },
+    {
+        "name": "Aula F99Pro Black + Gradient Grey Mechanical Keyboard WirelessOpens in a new window or tab",
+        "price": 5940,
+        "status": null,
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Razer BlackWidow V4 X Mechanical Gaming Keyboard  RGB Tactile Switches ExcellentOpens in a new window or tab",
+        "price": 4299,
+        "status": "eBay Refurbished",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 78
+    },
+    {
+        "name": "Corsair K70 CORE RGB Mechanical Gaming Keyboard - Steel Grey (Revival Series) -Opens in a new window or tab",
+        "price": 4799,
+        "status": "eBay Refurbished",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 142
+    },
+    {
+        "name": "AUKEY KMG17 Mechanical Keyboard Blue Switches 104key with Volume Control ButtonOpens in a new window or tab",
+        "price": 2999,
+        "status": null,
+        "shipping": null,
+        "free_returns": null,
+        "items_sold": 88
+    },
+    {
+        "name": "AULA F99/F99 Pro Tri-mode Wireless Mechanical Keyboard RGB Hot Swappable CustomOpens in a new window or tab",
+        "price": 4999,
+        "status": null,
+        "shipping": null,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "GK61 Mechanical Gaming RGB LED Keyboard - White, Gaetron Optical Brown SwitchesOpens in a new window or tab",
+        "price": 1998,
+        "status": null,
+        "shipping": null,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "GK61 Mechanical Gaming RGB LED Keyboard - White, Gaetron Optical Blue SwitchesOpens in a new window or tab",
+        "price": 1998,
+        "status": null,
+        "shipping": null,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "AULA F99 Wireless Gaming Keyboard Mechanical Tri-Mode Hot-Swappable Gasket MountOpens in a new window or tab",
+        "price": 4999,
+        "status": null,
+        "shipping": null,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "AUKEY KMG16 Mechanical Keyboard Blue Switches 104keyOpens in a new window or tab",
+        "price": 2999,
+        "status": null,
+        "shipping": null,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "60% Hot-Swappable RGB Mechanical Keyboard - Gateron Blue with Spill Proof DesignOpens in a new window or tab",
+        "price": 4559,
+        "status": null,
+        "shipping": null,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Alienware Low-Profile RGB Gaming Keyboard AW510K LightOpens in a new window or tab",
+        "price": 7998,
+        "status": null,
+        "shipping": null,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingCyberPowerPC Mechanical Keyboard Black QWERTY English PlasticOpens in a new window or tab",
+        "price": 2100,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "AULA F99/F99 Pro Tri-mode Wireless Mechanical Keyboard RGB Hot Swappable CustomOpens in a new window or tab",
+        "price": 4999,
+        "status": "eBay Refurbished",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "DROP CSTM80 RGB TKL Wired Mechanical Gaming Keyboard - WhiteOpens in a new window or tab",
+        "price": 6498,
+        "status": "eBay Refurbished",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 63
+    },
+    {
+        "name": "Epomaker Galaxy70 Mechanical keyboardOpens in a new window or tab",
+        "price": 4499,
+        "status": null,
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 6
+    },
+    {
+        "name": "CORSAIR - K100 Air Wireless Full-Size Bluetooth RGB Mechanical Cherry MX Ultr...Opens in a new window or tab",
+        "price": null,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": 86
+    },
+    {
+        "name": "AUKEY KMG17 Mechanical Keyboard Blue Switches 104key with Volume Control ButtonOpens in a new window or tab",
+        "price": 2999,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": 88
+    },
+    {
+        "name": "New Listing60% Hot-Swappable RGB Mechanical Keyboard - Gateron Blue with Spill Proof DesignOpens in a new window or tab",
+        "price": 4559,
+        "status": null,
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "GK61 Mechanical Gaming RGB LED Keyboard - White, Gaetron Optical Blue SwitchesOpens in a new window or tab",
+        "price": 1998,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Wireless Gaming Keyboard Mechanical G-Cord Wired Keyboard LED Backlit 104 KeysOpens in a new window or tab",
+        "price": 2999,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": 344
+    },
+    {
+        "name": "OB Glorious - GMMK 2 Prebuilt 65% Wired Gaming Keyboard - White GLO-GMMK2-65-FOXOpens in a new window or tab",
+        "price": 3499,
+        "status": null,
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 59
+    },
+    {
+        "name": "HP Hewlett Packard A2840B / A2840-60201 Wired PS/2 KeyboardOpens in a new window or tab",
+        "price": 3236,
+        "status": null,
+        "shipping": null,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Logitech MX Mechanical Mini Wireless Illuminated Keyboard - 920-010551Opens in a new window or tab",
+        "price": 7000,
+        "status": "eBay Refurbished",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "60% Hot-Swappable RGB Mechanical Keyboard - Gateron Blue with Spill Proof DesignOpens in a new window or tab",
+        "price": 4559,
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "HyperX Alloy Origins RGB HyperX Aqua Switch Mechanical Gaming Keyboard(Open Box)Opens in a new window or tab",
+        "price": 3996,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "ATTACK SHARK R85 HE Rapid Trigger Keyboard Magnetic Switch with Custom LightboxOpens in a new window or tab",
+        "price": 5480,
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Ajazz AK820 Wired RGB Mechanical Gaming Keyboard with Knob Hot Swap PBT KeycapsOpens in a new window or tab",
+        "price": 3699,
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Deck 87 Francium Pro Gaming Keyboard N Key Rollover Illumination Mechanical USBOpens in a new window or tab",
+        "price": 2975,
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "AUKEY KMG17 Mechanical Keyboard Blue Switches 104key with Volume Control ButtonOpens in a new window or tab",
+        "price": 2999,
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": 122
+    },
+    {
+        "name": "Deck 87 Francium Pro Gaming Keyboard Blue Cherry Mx Key Mechanical USB Light UpOpens in a new window or tab",
+        "price": 2975,
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Mechanical PS2 5 PIN DIN Keyboard for HP Dell IBM PC AT Windows PC TypewriterOpens in a new window or tab",
+        "price": 2295,
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": 57
+    },
+    {
+        "name": "AULA F99 Wireless Gaming Keyboard Mechanical Tri-Mode Hot-Swappable Gasket MountOpens in a new window or tab",
+        "price": 4999,
+        "status": "eBay Refurbished",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Inland Gaming MK-104 RGB RD SW 104 Key Wired Mechanical KeyboardOpens in a new window or tab",
+        "price": 999,
+        "status": null,
+        "shipping": 1000,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Keychron K2 HE Wood Frame Wireless Magnetic Switch Keyboard Mouse Elite BundleOpens in a new window or tab",
+        "price": 7498,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": 7
+    },
+    {
+        "name": "Oxbot Mechanical Keyboard,Multi OS Gaming Keyboard BT or wired with BROWN SWITCHOpens in a new window or tab",
+        "price": 1698,
+        "status": null,
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 53
+    },
+    {
+        "name": "New ListingCORSAIR K70 RGB PRO Wired Mechanical Gaming Keyboard - Sealed - Cherry MX SilverOpens in a new window or tab",
+        "price": 9480,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Mechanical Keyboard-Mouse combo with  RGB Lights -Wired -104 keygamingOpens in a new window or tab",
+        "price": 2799,
+        "status": null,
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "GK61 Mechanical Gaming RGB LED Keyboard - White, Gaetron Optical Brown SwitchesOpens in a new window or tab",
+        "price": 1998,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "AULA F2088 Typewriter Mechanical Gaming Keyboard Wired with Removable Wrist RestOpens in a new window or tab",
+        "price": 3699,
+        "status": "eBay Refurbished",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "EagleTec KG011 Mechanical Keyboard Wired Ergonomic White Keyboard Blue LEDOpens in a new window or tab",
+        "price": 3900,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "AUKEY KMG16 Mechanical Keyboard Blue Switches 104keyOpens in a new window or tab",
+        "price": 2999,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingKeychron K5 QMK Wireless Mechanical Keyboard (ISO Layout) - Version 2Opens in a new window or tab",
+        "price": 9000,
+        "status": null,
+        "shipping": 1000,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Higround SKYSTONE Basecamp 65% Mechanical USB Wired Gaming Keyboard, Silent G...Opens in a new window or tab",
+        "price": 5000,
+        "status": null,
+        "shipping": 644,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Lenovo (Lecoo) GK301 Wired Mechanical Gaming Keyboard USB wired RGB backlightOpens in a new window or tab",
+        "price": 2999,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Logitech - G515 LIGHTSPEED TKL Wireless Mechanical Keyboard - Black - 920-012423Opens in a new window or tab",
+        "price": 6800,
+        "status": null,
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 38
+    },
+    {
+        "name": "Snpurdiri 60% Gaming Keyboard Ice Blue LED Backlit 61 Keys Mini Wired for PC MacOpens in a new window or tab",
+        "price": 1898,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": 39
+    },
+    {
+        "name": "New ListingKeychron K2 Mechanical Keyboard, White Backlight, Pre-OwnedOpens in a new window or tab",
+        "price": 2700,
+        "status": null,
+        "shipping": 943,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Dustsilver D66 Wireless Mechanical Keyboard PeachOpens in a new window or tab",
+        "price": 3999,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": 60
+    },
+    {
+        "name": "New Listing8Bitdo Retro Mechanical Keyboard Bluetooth/2.4G/USB-C Hot Swappable NEWOpens in a new window or tab",
+        "price": 9999,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Alienware Low-Profile RGB Gaming Keyboard AW510K LightOpens in a new window or tab",
+        "price": 7998,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingLofree Flow Lite 84-Key Triple Mode Low Profile Mechanical Keyboard MarbleOpens in a new window or tab",
+        "price": 6000,
+        "status": null,
+        "shipping": 1050,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "AULA F75 Pro Wireless Mechanical Keyboard,75% Gasket Hot Swappable Custom Key...Opens in a new window or tab",
+        "price": 5700,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": 18
+    },
+    {
+        "name": "Custom Wireless Mechanical Keyboard \u2013 FOR SPECIFIC BUYEROpens in a new window or tab",
+        "price": 23500,
+        "status": null,
+        "shipping": 1500,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Logitech G Pro TKL Mechanical Wired Gaming Keyboard GX Blue Switch - 920-009388Opens in a new window or tab",
+        "price": 4999,
+        "status": "eBay Refurbished",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 32
+    },
+    {
+        "name": "Lemokey X3 Mechanical Gaming Keyboard Wired, 100% Layout, Red Switches, BlackOpens in a new window or tab",
+        "price": 2599,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "DROP \u00d7 TADA68 Mechanical Keyboard PCB \u201368-Key 65% -QMK Compatible\u2013MX Mount \u2013NewOpens in a new window or tab",
+        "price": 1499,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Logitech GX Blue Clicky G Pro Mechanical Gaming Keyboard 920-009388Opens in a new window or tab",
+        "price": 5999,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": 60
+    },
+    {
+        "name": "Razer BlackWidow V4 Wired Mechanical Gaming Keyboard Tactile Clicky Green SwitchOpens in a new window or tab",
+        "price": 3869,
+        "status": null,
+        "shipping": 899,
+        "free_returns": true,
+        "items_sold": 106
+    },
+    {
+        "name": "Z15, Per Key RGB, Kailh Speed Silver Linear, Wired, Black, Mechanical Gaming KeyOpens in a new window or tab",
+        "price": 5800,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingRedragon K684 Tri-Mode RGB Backlit Wired Mechanical Gaming Keyboard NEW OPEN BOXOpens in a new window or tab",
+        "price": 3999,
+        "status": null,
+        "shipping": 1279,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingGK GAMAKAY LK67 65% Custom Mechanical Keyboard - Matcha Switches / BluetoothOpens in a new window or tab",
+        "price": 99,
+        "status": null,
+        "shipping": 999,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Deck 87 Francium Pro Gaming Keyboard Blue Cherry Mx Key Mechanical USB Light UpOpens in a new window or tab",
+        "price": 2975,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Keycaps Random 70+ Keys Kid Gift Computer Mechanic Keyboard No Blank KeyOpens in a new window or tab",
+        "price": 998,
+        "status": null,
+        "shipping": 400,
+        "free_returns": null,
+        "items_sold": 118
+    },
+    {
+        "name": "NEW Replacement keycaps for CORSAIR K70 RGB Rapidfire Mechanical Gaming KeyboardOpens in a new window or tab",
+        "price": 699,
+        "status": null,
+        "shipping": 199,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "GM611 Mechanical Keyboard,Rainbow LED Backlit Gaming Wired Keyboards Compact MinOpens in a new window or tab",
+        "price": 2429,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingAULA F75  Wireless Mechanical Keyboard, 75% Hot Swappable RGB Reaper SwitchesOpens in a new window or tab",
+        "price": 3995,
+        "status": null,
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Rantopad MXX Series 87 Keys Wired Mechanical Gaming Keyboard Blue SwitchOpens in a new window or tab",
+        "price": 1748,
+        "status": null,
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Logitech MX Mechanical Mini for Mac Wireless Illuminated Keyboard - 920-010831Opens in a new window or tab",
+        "price": 6498,
+        "status": "eBay Refurbished",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 56
+    },
+    {
+        "name": "C2 Full Size Wired Mechanical Keyboard Compatible with Mac, Brown Switch, 104...Opens in a new window or tab",
+        "price": 5791,
+        "status": null,
+        "shipping": 999,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "HyperX Alloy Origins RGB HyperX Aqua Switch Mechanical Gaming Keyboard(Open Box)Opens in a new window or tab",
+        "price": 3996,
+        "status": null,
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingHyperX Alloy Rise Mechanical Keyboard Black Aluminum 85U14AA N75821-001 66X0113AOpens in a new window or tab",
+        "price": 2799,
+        "status": null,
+        "shipping": 965,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Shop on eBay",
+        "price": 2000,
+        "status": null,
+        "shipping": null,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Shop on eBay",
+        "price": 2000,
+        "status": null,
+        "shipping": null,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingHyperX Alloy Rise Mechanical Keyboard Black Aluminum 85U14AA N75821-001 66X0113AOpens in a new window or tab",
+        "price": 2799,
+        "status": null,
+        "shipping": 965,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "KEYCHRON K8 WIRELESS MECHANICAL KEYBOARD, GATERON OPTICAL RED SWITCH - BLACKOpens in a new window or tab",
+        "price": 5921,
+        "status": null,
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Snpurdiri 60% Wired Gaming Keyboard RGB Backlit Small Membrane 61 Keys for PCOpens in a new window or tab",
+        "price": 1898,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "NEW Lemokey X3 Mechanical Gaming Keyboard Wired,100% Layout,Brown Switches,BlackOpens in a new window or tab",
+        "price": 2200,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingRosewill NEON K75 V2 BR Wired Mechanical Gaming KeyboardOpens in a new window or tab",
+        "price": 1200,
+        "status": null,
+        "shipping": 966,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "4IN1 LED Gamer Bundle Mechanical Kits,RGB PC Gaming Keyboard Mouse &Headset SetOpens in a new window or tab",
+        "price": 3279,
+        "status": null,
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 152
+    },
+    {
+        "name": "Gaming Keyboard and Mouse Set - Mechanical Feel with LED Backlit for Desktop PCsOpens in a new window or tab",
+        "price": 1698,
+        "status": null,
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingAkko 3108 V2 Mechanical Keyboard Pink White USB Wired QWERTY MultimediaOpens in a new window or tab",
+        "price": 2995,
+        "status": null,
+        "shipping": 1755,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Razer Huntsman V2 TKL Wired Optical Keyboard RZ03-03940400-R3U1Opens in a new window or tab",
+        "price": 3599,
+        "status": null,
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Keychron K2 HE Wood Frame Wireless Magnetic Switch Keyboard Mouse Elite BundleOpens in a new window or tab",
+        "price": 7200,
+        "status": null,
+        "shipping": 1207,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingMechanical Keyboard with Custom Sculpted White Keycaps, QWERTY LayoutOpens in a new window or tab",
+        "price": 1000,
+        "status": null,
+        "shipping": 741,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Deck 87 Francium Pro Gaming Keyboard N Key Rollover Illumination Mechanical USBOpens in a new window or tab",
+        "price": 2975,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New Seal HyperX Alloy Elite 2 RGB Mechanical Gaming Keyboard TimTheTatMan TTT EdOpens in a new window or tab",
+        "price": 10999,
+        "status": null,
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 9
+    },
+    {
+        "name": "Corsair K100 RGB Optical-Mechanical Gaming Keyboard - Black - SealedOpens in a new window or tab",
+        "price": 18580,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "CHERRY WIRED MECHANICAL GAMING KEYBOARD ALUMINUM HOUSING MX RED SWITCHES - WHITEOpens in a new window or tab",
+        "price": 6071,
+        "status": null,
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Corsair K70 Pro mini Wireless RGB LED Keyboard - CH-9189014-NAOpens in a new window or tab",
+        "price": 4999,
+        "status": "eBay Refurbished",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 74
+    },
+    {
+        "name": "Mechanical Keyboard 96 Keys Full Size with LED Colorful Backlit USB WiredOpens in a new window or tab",
+        "price": 3279,
+        "status": null,
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Havit Mechanical Gaming Backlit Keyboard HV-KB389LOpens in a new window or tab",
+        "price": 2999,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Glorious Custom Gaming Keyboard - GMMK 85% percent TKL Barebone MechanicalOpens in a new window or tab",
+        "price": 3495,
+        "status": null,
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 29
+    },
+    {
+        "name": "Logitech POP Keys Wireless Mechanical Keyboard for Windows/macOS/iPadOS/AndroidOpens in a new window or tab",
+        "price": 3999,
+        "status": null,
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingRedDragon Fizz K617 Mechanical Gaming Keyboard RGB, USB, Red/BlackOpens in a new window or tab",
+        "price": 1500,
+        "status": null,
+        "shipping": 965,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Das Keyboard Model S Professional Wired Mechanical Keyboard Black DASK3MKPROSILOpens in a new window or tab",
+        "price": 14500,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "OEM Logitech G710+ REPLACEMENT KEY CAPS ONLY Mechanical Gaming KeyboardOpens in a new window or tab",
+        "price": 695,
+        "status": null,
+        "shipping": 575,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingDesktop Tribe DT60 60% Mechanical Keyboard (Adapt to Wooting) Retro GrayOpens in a new window or tab",
+        "price": 13000,
+        "status": null,
+        "shipping": 792,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "1 pc Mechanical Keyboard Switch Remover Tool Anti-Static IC PullerOpens in a new window or tab",
+        "price": 949,
+        "status": null,
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Logitech MX Mechanical Mini Wireless Illuminated Keyboard - 920-010550Opens in a new window or tab",
+        "price": 7800,
+        "status": "eBay Refurbished",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 115
+    },
+    {
+        "name": "Redragon K552 RGB 2 Wired TKL Gaming Mechanical Blue Switch Keyboard - BlackOpens in a new window or tab",
+        "price": 2995,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Massdrop x OLKB Planck Keyboard Kit Gunmetal Case MX Compatible Plate Beige/BlacOpens in a new window or tab",
+        "price": 3499,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Logitech POP Keys Wireless Mechanical Emoji Keyboard - Blast, English - YELLOWOpens in a new window or tab",
+        "price": 4800,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Turtle Beach Vulcan II TKL Pro Magnetic Mechanical RGB Gaming Keyboard \u2013 AnalogOpens in a new window or tab",
+        "price": 8999,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Redragon K521 Upgrade Rainbow LED Gaming Keyboard, 104 Keys Wired Mechanical FeeOpens in a new window or tab",
+        "price": 2659,
+        "status": null,
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Keychron Q4 QMK Mechanical Keyboard Gateron G Pro Red Switch - Carbon Black-BOpens in a new window or tab",
+        "price": 7915,
+        "status": null,
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "RK87 Bluetooth 5.1 Mechanical Keyboard | 87 Keys | Bluetooth / Wired | White LEDOpens in a new window or tab",
+        "price": 3198,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Logitech MX Mechanical Wireless Performance Keyboard - Graphite - 920-010547Opens in a new window or tab",
+        "price": 9671,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "ATTACK SHARK R85 HE Rapid Trigger Keyboard Magnetic Switch with Custom LightboxOpens in a new window or tab",
+        "price": 4658,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Monsgeek Akko X Mg108b Bun Wonderland Mechanical Keyboard Hot-swappableOpens in a new window or tab",
+        "price": 4199,
+        "status": null,
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "New Mechanical Gaming Keyboard Replacement Key Cap For Logitech G915 ONE KEYOpens in a new window or tab",
+        "price": 425,
+        "status": null,
+        "shipping": 450,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Cherry MX Switches 3 pin Key Switch - [LOT] Various Color/QuantitiesOpens in a new window or tab",
+        "price": 690,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Snpurdiri 60% Wired Gaming Keyboard Ice Blue LED Backlit 61 Red Switch Keys MiniOpens in a new window or tab",
+        "price": 1898,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Silakka54 Split Ergonomic Keyboard Hot Swap RP2040 QMK VIAL Gaming 54KeyOpens in a new window or tab",
+        "price": 5270,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Corsair CH-9145030-NA/RF K63 Mechanical Gaming - Blue No DongleOpens in a new window or tab",
+        "price": 5500,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "A Set ABS Black Key caps Replacement for Corsair K70 RGB Mechanical KeyboardOpens in a new window or tab",
+        "price": 2699,
+        "status": null,
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 37
+    },
+    {
+        "name": "M96 PBT Wireless Membrane Gaming Keyboard Scient Keys with Knob Rainbow BacklitOpens in a new window or tab",
+        "price": 3390,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Glorious GMMK 3 Mechanical Wired Gaming Keyboard - Full Size, Hot-SwapOpens in a new window or tab",
+        "price": 6598,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Redragon K605 Alien Giant Mechanical Gaming Keyboard Super Big 61 Keys & Out...Opens in a new window or tab",
+        "price": 29249,
+        "status": null,
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Keyboard Switches, 50 Pcs 3 PIN Blue Keyboard Clicker Dustproof Mechanical KeOpens in a new window or tab",
+        "price": 1556,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Logitech G915 X Low-Profile Wired Mechanical Gaming Keyboard - 920-012937Opens in a new window or tab",
+        "price": 11500,
+        "status": "eBay Refurbished",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 54
+    },
+    {
+        "name": "AULA WIN60 HE Wired Mechanical Gaming Keyboard 60%, Gray Wood Magnetic SwitchOpens in a new window or tab",
+        "price": 3300,
+        "status": null,
+        "shipping": 965,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Deck 87 Francium Pro Mechanical Gaming Keyboard - Cherry Brown KeysOpens in a new window or tab",
+        "price": 2422,
+        "status": null,
+        "shipping": 965,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Logitech - G815 LIGHTSYNC Full-size Wired Gaming Keyboard - Carbon - 920-008984Opens in a new window or tab",
+        "price": 7498,
+        "status": "eBay Refurbished",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 75
+    },
+    {
+        "name": "ASUS - ROG Azoth X 75% Wireless Mechanical RGB Gaming Keyboard with Hot-Swapp...Opens in a new window or tab",
+        "price": null,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Keyboard Switches, 50 Pcs 3 PIN Blue Keyboard Clicker Dustproof Mechanical KeOpens in a new window or tab",
+        "price": 1432,
+        "status": null,
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Logitech MX Mechanical Mini Wireless Illuminated Keyboard, Clicky Switches -Opens in a new window or tab",
+        "price": 7000,
+        "status": "eBay Refurbished",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 40
+    },
+    {
+        "name": "Ajazz AK820 Wired RGB Mechanical Gaming Keyboard with Knob Hot Swap PBT KeycapsOpens in a new window or tab",
+        "price": 3699,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingRedragon Keyboard Wired/ 2.4g/ Mechanical Gaming KeyboardOpens in a new window or tab",
+        "price": 2200,
+        "status": null,
+        "shipping": 619,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New Alienware Gaming Keyboard 310k Mechanical Cherry RED Switch K6Y8POpens in a new window or tab",
+        "price": 5669,
+        "status": null,
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "8BitDo Retro 87 Wireless Mechanical Keyboard Mouse Set Xbox Edition Clear GreenOpens in a new window or tab",
+        "price": 8170,
+        "status": null,
+        "shipping": 499,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Logitech G915 TKL Tenkeyless Lightspeed Wireless RGB Mechanical Gaming KeyboardOpens in a new window or tab",
+        "price": 10999,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Keychron Q2 Custom Mechanical Keyboard Blue Aluminum Wired Barebone Version 65%Opens in a new window or tab",
+        "price": 3665,
+        "status": null,
+        "shipping": 1703,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New Durgod Hades 68 RGB Mechanical Gaming Keyboard Black layout.            170Opens in a new window or tab",
+        "price": 4800,
+        "status": null,
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Shop on eBay",
+        "price": 2000,
+        "status": null,
+        "shipping": null,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Shop on eBay",
+        "price": 2000,
+        "status": null,
+        "shipping": null,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingLEOBOG Hi8 Modular DIY Mechanical Keyboard with Drop+invyr HOLY PANDA switchesOpens in a new window or tab",
+        "price": 12000,
+        "status": null,
+        "shipping": 881,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Mechanical Keyboard 104key Blue Switches, RBG Light,7 Pre-set Colors+12 LightingOpens in a new window or tab",
+        "price": 3599,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingEpoMaker Galaxy70 Hot-Swappable 75% Wireless Mechanical Keyboard   *NEEDS CORD*Opens in a new window or tab",
+        "price": 3299,
+        "status": null,
+        "shipping": 1500,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Snpurdiri 60% Wired Gaming Keyboard BLUE LED Backlit Small 61 Keys Brown SwitchOpens in a new window or tab",
+        "price": 1898,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Cherry MX RGB Clear Switches 3 pin Key Switch - [LOT] Various Color/QuantitiesOpens in a new window or tab",
+        "price": 690,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Keycaps Random 70+ Keys Kid Gift for Mechanic Keyboard No Blank KeyOpens in a new window or tab",
+        "price": 1500,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Mini Foldable Aluminum Bluetooth Keyboard for iPad Air Pro iPhone Android PhoneOpens in a new window or tab",
+        "price": 2999,
+        "status": null,
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Monster Alpha 5.0 LED Mechanical Gaming KeyboardOpens in a new window or tab",
+        "price": 2950,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Gateron Clear Top Switches - [LOT] Various Color/QuantitiesOpens in a new window or tab",
+        "price": 875,
+        "status": null,
+        "shipping": null,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Presale ROG Azoth Extreme SE 8K Color Touchscreen Wireless Gaming KeyboardOpens in a new window or tab",
+        "price": 89999,
+        "status": null,
+        "shipping": 1026,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Redragon K585 DITI One-Handed RGB Mechanical Gaming Keyboard 42 Keys Type COpens in a new window or tab",
+        "price": 4999,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Mario Keycaps Set PBT 130 keys The Lamp Edition For MX Mechanical KeyboardsOpens in a new window or tab",
+        "price": 3999,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "UNICOMP KEYCAPS Replacement for IBM Model M Buckling Spring Keyboard Key Cap NEWOpens in a new window or tab",
+        "price": 249,
+        "status": null,
+        "shipping": null,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "NEW Planck Keyboard REV6 - High-Pro Acrylic Case, MX Compatible Plate, No KeycapOpens in a new window or tab",
+        "price": 5499,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": 79
+    },
+    {
+        "name": "ST-K8 Gaming Keyboard Mechanical LED RBG Backlit - Fully Programmable - BLACKOpens in a new window or tab",
+        "price": 2300,
+        "status": null,
+        "shipping": 1050,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Snpurdiri 60% Wired Gaming Keyboard White LED Backlit 61 Key Small Ultra-CompactOpens in a new window or tab",
+        "price": 1898,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "DROP Kailh Speed Silver Gaming Mechanical Keyboard Switches 61pcs MDX-19785-55Opens in a new window or tab",
+        "price": 1998,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Logitech MX Mechanical Mini | SPANISH REPLACEMENT KEYBOARD KEYCAPS KEYS (YR0081)Opens in a new window or tab",
+        "price": 699,
+        "status": null,
+        "shipping": 449,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Lubed and Wire Balanced Durock V3 Screw-in stabilizer  for 60/87% keyboardOpens in a new window or tab",
+        "price": 3895,
+        "status": null,
+        "shipping": 500,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingLogitech Pro Mechanical Gaming Keyboard BlackOpens in a new window or tab",
+        "price": 3500,
+        "status": null,
+        "shipping": 664,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Logitech G515 TKL Wired Low Profile Gaming Keyboard - 920-012868Opens in a new window or tab",
+        "price": 5400,
+        "status": "eBay Refurbished",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 22
+    },
+    {
+        "name": "GMK Sumi RAMA Metal Artisan (Torii) - New, UnusedOpens in a new window or tab",
+        "price": 4000,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "KenoKeys JJK Sukuna Anime Keycap Set For Mechanical Keyboards - Cherry/PBTOpens in a new window or tab",
+        "price": 3967,
+        "status": null,
+        "shipping": 608,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Logitech - MX Mechanical Mini for Mac Compact Wireless Keyboard - 920-010553Opens in a new window or tab",
+        "price": 7600,
+        "status": "eBay Refurbished",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Glorious GMMK2 Pre-Built Edition Compact Modular Mechanical keyboard - BlackOpens in a new window or tab",
+        "price": 2999,
+        "status": null,
+        "shipping": 1000,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Lofree - Phantom Full POM Low Profile Switches 90PCS NEWOpens in a new window or tab",
+        "price": 2500,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Wireless RGB Mechanical Gaming Keyboard with Tri-Mode Connectivity and BatteryOpens in a new window or tab",
+        "price": 3694,
+        "status": null,
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Topre Realforce Mechanical Keyboard Keychain Switch Tester newOpens in a new window or tab",
+        "price": 1495,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "ABKO ABKONCORE K595 Mechanical Gaming Keyboard US (Blue Axis)Opens in a new window or tab",
+        "price": 2849,
+        "status": null,
+        "shipping": null,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "RisoPhy Mechanical Gaming Keyboard - 82 Keys Hot Swappable Blue PBT KeycapsOpens in a new window or tab",
+        "price": 3999,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "MK Disco White ABS Double Shot RGB LED TKL Mechanical KeyboardOpens in a new window or tab",
+        "price": 3990,
+        "status": null,
+        "shipping": 664,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "ATTACK SAHRK K75 Mechanical Keyboard, Transparent PC Keycaps, Custom RGB GamingOpens in a new window or tab",
+        "price": 4599,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingCorsair K65 RGB Tenkeyless Mechanical RGB Keyboard (2016 Model)Opens in a new window or tab",
+        "price": 2499,
+        "status": null,
+        "shipping": 1162,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "IBM Model M by Lexmark Mechanical Keyboard made in USA , New, Wired with AdapterOpens in a new window or tab",
+        "price": 29800,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": 14
+    },
+    {
+        "name": "TACTILE Mechanical Keyboard SWITCH TESTER SAMPLE PACK - 14 Enthusiast SwitchesOpens in a new window or tab",
+        "price": 2499,
+        "status": null,
+        "shipping": 649,
+        "free_returns": null,
+        "items_sold": 145
+    },
+    {
+        "name": "PBT Keycaps - Side Printed Keycap Set Double Shot Shine Through Custom Keycap...Opens in a new window or tab",
+        "price": 1276,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Redragon K630 Dragonborn Wired RGB Gaming 61 Keys Compact Mechanical KeyboardOpens in a new window or tab",
+        "price": 3999,
+        "status": null,
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "North Base Compact Keyboard 65% Wired Pink w/ Customizable RGB Backlighting NEWOpens in a new window or tab",
+        "price": 1798,
+        "status": null,
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "McgeKeyboard Mechanical Keyboard Bluetooth Wireless MK-BOX WhiteOpens in a new window or tab",
+        "price": 5599,
+        "status": null,
+        "shipping": 1185,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Glorious GMMK 3 PRO HE 75% Wireless Hall-Effect Linear Gaming Keyboard SilverOpens in a new window or tab",
+        "price": 24990,
+        "status": null,
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Aula F75 80 Keys Mechanical Keyboard With Backlight EffectOpens in a new window or tab",
+        "price": 3150,
+        "status": null,
+        "shipping": 1803,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Roccat VULCAN TKL Compact Mechanical RGB Gaming Keyboard - New, Sealed - BlackOpens in a new window or tab",
+        "price": 6475,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Mechanical Keyboard Display Stand (2-pack)Opens in a new window or tab",
+        "price": 1500,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingSteelSeries Apex 3 TKL Compact Mechanical Gaming Keyboard + SKYTECH M1000 MouseOpens in a new window or tab",
+        "price": 3899,
+        "status": null,
+        "shipping": 1325,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Cerakey V2 Blue Crazed  Custom Mechanical Keyboard Keycaps Set Durable NEWOpens in a new window or tab",
+        "price": 12000,
+        "status": null,
+        "shipping": 1000,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingLogitech G513 Carbon Mechanical Gaming Keyboard GX Blue, RGB Backlit KeysOpens in a new window or tab",
+        "price": 4049,
+        "status": null,
+        "shipping": 981,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Redragon K556 RGB LED Backlit Wired Mechanical Gaming Keyboard, 104 Keys Hot-...Opens in a new window or tab",
+        "price": 6545,
+        "status": null,
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Logitech G410 Atlas Spectrum TKL RGB Mechanical Keyboard Romer-G - Open BoxOpens in a new window or tab",
+        "price": 3490,
+        "status": null,
+        "shipping": 711,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Logitech G413 SE 17.1\" Mechanical Clicky Gaming Keyboard NEWOpens in a new window or tab",
+        "price": 6498,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "ATTACK SHARK X68 HE Wired Rapid Trigger Mechanical Gaming KeyboardOpens in a new window or tab",
+        "price": 1599,
+        "status": null,
+        "shipping": 3000,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "M96 Wireless Membrane Gaming Keyboard Gradient Keys with Knob Rainbow BacklitOpens in a new window or tab",
+        "price": 3390,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Razer BlackWidow V3 Mini 65% HyperSpeed Wireless Mechanical Gaming Keyboard \ud83d\udc0dOpens in a new window or tab",
+        "price": 4949,
+        "status": null,
+        "shipping": 599,
+        "free_returns": true,
+        "items_sold": 81
+    },
+    {
+        "name": "New ListingDas Keyboard 4 Professional Wired Mechanical Keyboard, Cherry MX BrownOpens in a new window or tab",
+        "price": 3899,
+        "status": null,
+        "shipping": 981,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Motorola FTN0017A MW810 R2.0 Rugged USB-Wired Mechanical KeyboardOpens in a new window or tab",
+        "price": 2759,
+        "status": null,
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "A full set of Brand - New Logitech G915X/G913X Keyboard replacement keycapsOpens in a new window or tab",
+        "price": 2469,
+        "status": null,
+        "shipping": 500,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Rosewood Wooden OEM Cross Shaft Keycaps for 60/87/108 Mechanical Keyboard KeypadOpens in a new window or tab",
+        "price": 16199,
+        "status": null,
+        "shipping": 3499,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Hexgears Immersion A3 TKL Mechanical Keyboard, Bluetooth/2.4G/USB-C Wireless KeyOpens in a new window or tab",
+        "price": 6166,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Logitech G413 TKL SE Mechanical Gaming Keyboard 920-010442Opens in a new window or tab",
+        "price": 3499,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "COMBO PBX half gaming mechanical keyboard + TUF M3 Mouse + THX Audio controllerOpens in a new window or tab",
+        "price": 3999,
+        "status": null,
+        "shipping": 1207,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Optical Mechanical Gaming Keyboard ZIDLI ZK23, Blue Backlight & RGB Side LightOpens in a new window or tab",
+        "price": 2999,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Shop on eBay",
+        "price": 2000,
+        "status": null,
+        "shipping": null,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Shop on eBay",
+        "price": 2000,
+        "status": null,
+        "shipping": null,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Hand Lubed and Filmed Gateron Ink Black V2 Linear Switches (70 Count)Opens in a new window or tab",
+        "price": 11000,
+        "status": null,
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 61
+    },
+    {
+        "name": "Optical Mechanical Gaming Keyboard ZIDLI ZK23, Blue Backlight & RGB Side LightOpens in a new window or tab",
+        "price": 2999,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "65% Wireless Gaming Keyboard, Rechargeable Backlit Gaming Keyboard, 68 Keys UltOpens in a new window or tab",
+        "price": 3269,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Lemokey Gaming Keyboard Red Switch LED Backlit  TKLOpens in a new window or tab",
+        "price": 1800,
+        "status": null,
+        "shipping": 919,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "ATTACK SHARK X66 Wireless Mechanical Gaming Keyboard with Knob Tri Mode GasketOpens in a new window or tab",
+        "price": 4175,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingArzopa Wireless Mechanical Gaming Keyboard Model K87 RBG backbiting Gasket MountOpens in a new window or tab",
+        "price": 6998,
+        "status": null,
+        "shipping": 1000,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "SteelSeries Apex Pro TKL V2 Wired HyperMagnetic Gaming Keyboard - BlackOpens in a new window or tab",
+        "price": 7498,
+        "status": null,
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Black Industrial USB Keyboard With Mechanical Trackball Kiosk Metal KeypadOpens in a new window or tab",
+        "price": 9999,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Keychron Keycap Set PBT53 NEW (Blue, Red,White)Opens in a new window or tab",
+        "price": 3000,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingRazer BlackWidow Chroma V2 Mechanical Gaming Keyboard Yellow Switches RGBOpens in a new window or tab",
+        "price": 2999,
+        "status": null,
+        "shipping": 1499,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Custom  Keyboard 2 Key RGB Macro OSU Keypad Programmable Mechanical4991Opens in a new window or tab",
+        "price": 1364,
+        "status": null,
+        "shipping": 189,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Logitech G PRO X TKL LIGHTSPEED Wireless Gaming Keyboard - 920-012122Opens in a new window or tab",
+        "price": 9700,
+        "status": "eBay Refurbished",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 68
+    },
+    {
+        "name": "Scarlet Red PBT Doubleshot Cherry Profile Keycaps Set for MX Mechanical KeyboardOpens in a new window or tab",
+        "price": 2358,
+        "status": null,
+        "shipping": 399,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingGlorious Aura RGB Black Pudding Keycaps, 145 CountOpens in a new window or tab",
+        "price": 899,
+        "status": null,
+        "shipping": 800,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "AUKEY KMG17 Mechanical Keyboard Blue Switches 104key with Volume Control ButtonOpens in a new window or tab",
+        "price": 2999,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": 122
+    },
+    {
+        "name": "Cherry MX RGB 3 Pin Mechanical Key Switch Plate Mount - [LOT] VARIOUS QTY/COLORSOpens in a new window or tab",
+        "price": 695,
+        "status": null,
+        "shipping": null,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "MOUNTAIN Everest 60 RGB Mechanical Keyboard - 60% - Midnight Black (Tactile 55)Opens in a new window or tab",
+        "price": 3499,
+        "status": null,
+        "shipping": 1499,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Logitech MX Mechanical Wireless GRAY REPLACEMENT KEYBOARD KEYCAPS KEYS (YR0082)Opens in a new window or tab",
+        "price": 699,
+        "status": null,
+        "shipping": 449,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "HP GK400F Wired Mechanical Keyboard (SPANISH)Opens in a new window or tab",
+        "price": 3150,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Mechanical PS2 5 PIN DIN Keyboard for HP Dell IBM PC AT Windows PC TypewriterOpens in a new window or tab",
+        "price": 2295,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": 57
+    },
+    {
+        "name": "10 Gateron Yellow Pro SwitchesOpens in a new window or tab",
+        "price": 395,
+        "status": null,
+        "shipping": 516,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "ATTACK SHARK X820Ultra Tri-mode 75% Gasket Mechanical Keyboard With Knob DesignOpens in a new window or tab",
+        "price": 5480,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "10 Keychron Brown SwitchesOpens in a new window or tab",
+        "price": 295,
+        "status": null,
+        "shipping": 478,
+        "free_returns": null,
+        "items_sold": 9
+    },
+    {
+        "name": "AJAZZ NACODEX NK68 Mechanical Keyboard | 68-Key, Wired, RGB, Custom KeycapsOpens in a new window or tab",
+        "price": 2400,
+        "status": null,
+        "shipping": 608,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Logitech G515 Wireless Gaming Keyboard TKL Tactile Brown Mechanical BlackOpens in a new window or tab",
+        "price": 7400,
+        "status": null,
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "iKBC C87 PBT Tenkeyless Mechanical Gaming Keyboard Cherry MX Switch (OPEN BOX)Opens in a new window or tab",
+        "price": 4299,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Ajazz AK680 60% Wired Mechanical Gaming Keyboard Mini RGB Backlit Hot Swap PBTOpens in a new window or tab",
+        "price": 2399,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingAlienware AW510K RGB Mechanical Gaming Keyboard - Lunar LightOpens in a new window or tab",
+        "price": 5000,
+        "status": null,
+        "shipping": 1129,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingHyperX Alloy Origins Core PBT -Tenkeyless Mechanical Gaming Keyboard Blue SwitchOpens in a new window or tab",
+        "price": 5999,
+        "status": "eBay Refurbished",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "DrunkDeer G65 Rapid Trigger Mechanical Keyboard Magnetic Switch Gaming PBT KeyOpens in a new window or tab",
+        "price": 3999,
+        "status": null,
+        "shipping": 499,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Gateron Compact Mechanical Gaming Keyboard RGB Hot Swappable Waterproof QWERTYOpens in a new window or tab",
+        "price": 3000,
+        "status": null,
+        "shipping": 1000,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "RisoPhy LED Wired PC Computer Gaming Keyboard Mechanical Feel Mini RGB BacklitOpens in a new window or tab",
+        "price": 3999,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New Listing4-Key USB Mini Mechanical Keyboard DIY Custom Shortcut Macro Programmable KeypadOpens in a new window or tab",
+        "price": 1597,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Logitech MX Mechanical Mini SINGLE REPLACEMENT KEYBOARD KEYCAPS KEYS (YR0081)Opens in a new window or tab",
+        "price": 699,
+        "status": null,
+        "shipping": 449,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Corne 4x6 Split Mechanical Keyboard Hot-Swap RGB QMK VIAL Ergonomic 2 KnobsOpens in a new window or tab",
+        "price": 10213,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Logitech G915 RGB Mechanical GL Clicky Bluetooth Gaming Keyboard - 920-009103Opens in a new window or tab",
+        "price": 6450,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Keychron - V5 Max 96% Custom Wireless RGB Mechanical Keyboard with Programmab...Opens in a new window or tab",
+        "price": 10499,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Logitech MX Mechanical Mini SINGLE REPLACEMENT KEYBOARD KEYCAPS Graphite ashOpens in a new window or tab",
+        "price": 500,
+        "status": null,
+        "shipping": 1000,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "CyberpowerPC Skorpion K2 RGB Mechanical Gaming Keyboard/Kontact Red Linear QuietOpens in a new window or tab",
+        "price": 4500,
+        "status": null,
+        "shipping": 719,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "60% Wired Gaming Mechanical Keyboard RGB Backlit Ultra Compact Mini Layout (New)Opens in a new window or tab",
+        "price": 3199,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "CyberPowerPC PLAY READY 01 Gaming NOHI LED Wired Keyboard KB-161-306Opens in a new window or tab",
+        "price": 2299,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": 39
+    },
+    {
+        "name": "Corsair K70 RGB TKL Optical Mechanical Gaming KeyboardOpens in a new window or tab",
+        "price": 5000,
+        "status": null,
+        "shipping": 1381,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Razer BlackWidow V4 Pro Mechanical Gaming Keyboard GREEN SWITCHESOpens in a new window or tab",
+        "price": 5599,
+        "status": null,
+        "shipping": 999,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "iKBC CD108 v2 Mechanical Ergonomic Keyboard with Cherry MX Switch 108-Key, BlackOpens in a new window or tab",
+        "price": 7998,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingCooler Master MasterKeys S PBT- Tenkeyless Mechanical Keyboard, Cherry BlueOpens in a new window or tab",
+        "price": 675,
+        "status": null,
+        "shipping": 981,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Mechanical Keyboard Wired RGB Backlit Blue Switches QWERTY TKL 80% CompactOpens in a new window or tab",
+        "price": 2620,
+        "status": null,
+        "shipping": 1961,
+        "free_returns": null,
+        "items_sold": 149
+    },
+    {
+        "name": "Snpurdiri 60% Wired Gaming Keyboard Blue LED Backlit Small 61 Keys Red SwitchOpens in a new window or tab",
+        "price": 1898,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingHiground Basecamp 65 Crystal with Opal Mechanical Switches Wired Gaming KeyboardOpens in a new window or tab",
+        "price": 4840,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Razer Doubleshot PBT Keycap Upgrade Set for Mechanical & Optical KeyboardsOpens in a new window or tab",
+        "price": 2499,
+        "status": null,
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Logitech G915 TKL Tenkeyless Lightspeed Gaming Keyboard - Carbon English TactileOpens in a new window or tab",
+        "price": 7595,
+        "status": null,
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "New Logitech MX Keys For Business Advanced Wireless Keyboard 920-010116Opens in a new window or tab",
+        "price": 9995,
+        "status": null,
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "MASSDROP X OLKB-48 PLANCK MECHANICAL KEYBOARD KIT, GUNMETAL CASE, MX COMPATIBLEOpens in a new window or tab",
+        "price": 3499,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Inland MK-60% Rapture Mini RGB Mechanical Gaming KeyboardOpens in a new window or tab",
+        "price": 999,
+        "status": null,
+        "shipping": 1000,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Galaxy keycapsOpens in a new window or tab",
+        "price": 3000,
+        "status": null,
+        "shipping": 552,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New Listing3-key Keypad Gaming Keyboard Programming Macro Mechanical With 1.5m Data CableOpens in a new window or tab",
+        "price": 1504,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Keychron - K10 HE 100% Custom Hall Effect Mechanical Gaming Keyboard with Pro...Opens in a new window or tab",
+        "price": 14499,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Wireless Gaming Keyboard with RGB Backlight, Bluetooth/2.4G, 94 KeysOpens in a new window or tab",
+        "price": 3740,
+        "status": null,
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Teclado Mecanico 60 Percent Keyboard Mechanical with Backlit Keycaps Mac/WindowsOpens in a new window or tab",
+        "price": 2899,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Monster Alpha 5.0 Mechanical LED/RGB Gaming Keyboard. NEW SEALED.Opens in a new window or tab",
+        "price": 5499,
+        "status": null,
+        "shipping": null,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "AULA Sapphire 108 Mechanical Gaming Keyboard with Blue SwitchOpens in a new window or tab",
+        "price": 3999,
+        "status": null,
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Shop on eBay",
+        "price": 2000,
+        "status": null,
+        "shipping": null,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Shop on eBay",
+        "price": 2000,
+        "status": null,
+        "shipping": null,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Zalman ZM-K900M Mechanical Gaming Keyboard RGB LED Z-machine Gaming Gear 1000HZOpens in a new window or tab",
+        "price": 9999,
+        "status": null,
+        "shipping": 2245,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "AULA Sapphire 108 Mechanical Gaming Keyboard with Blue SwitchOpens in a new window or tab",
+        "price": 3999,
+        "status": null,
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "LATEST Optical Mechanical Gaming Keyboard ZIDLI ZK1900,Spill And Water ResistantOpens in a new window or tab",
+        "price": 2999,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "MACHENIKE K500B Mechanical Wired USB Keyboard (Blue/White) - TESTEDOpens in a new window or tab",
+        "price": 2499,
+        "status": null,
+        "shipping": 683,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "HyperX Linear SwitchesOpens in a new window or tab",
+        "price": 1998,
+        "status": null,
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Logitech G515 Wireless Gaming Keyboard TKL Tactile Brown Mechanical BlackOpens in a new window or tab",
+        "price": 6498,
+        "status": null,
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingMechanical 60% Gaming Keyboard Mini RGB Backlit 61 Keys Red Switch DolchOpens in a new window or tab",
+        "price": 4099,
+        "status": null,
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "RGB Gaming Keyboard and Mouse Combo Mechanical Backlit for Computer Laptop PCOpens in a new window or tab",
+        "price": 1995,
+        "status": null,
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Logitech G715 TKL Wireless Mechanical Gaming Keyboard White Mist - 920-010453Opens in a new window or tab",
+        "price": 9400,
+        "status": "eBay Refurbished",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 27
+    },
+    {
+        "name": "Genuine Kailh choc v1 switches (red/white/brown)Opens in a new window or tab",
+        "price": 835,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Gateron Oil King V2 Pre Lubed 5pin Linear Switches for Mechanical Keyboard 36...Opens in a new window or tab",
+        "price": 3399,
+        "status": null,
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingRoyal Kludge RK68 Gaming Wireless Swappable 65% Mechanical Bluetooth KeyboardOpens in a new window or tab",
+        "price": 2987,
+        "status": null,
+        "shipping": 986,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Logitech - G815 LIGHTSYNC Full-size Wired Gaming Keyboard - 920-009087Opens in a new window or tab",
+        "price": 7998,
+        "status": "eBay Refurbished",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 49
+    },
+    {
+        "name": "Irok Fe 104 White With Brown Switches, Open BoxOpens in a new window or tab",
+        "price": 3499,
+        "status": null,
+        "shipping": 1129,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingAULA F99 Wireless Mechanical RGB Keyboard 3 Modes Swappable White/Grey/Dark GreyOpens in a new window or tab",
+        "price": 3799,
+        "status": null,
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "LTC Nimbleback NB831 Triple Mode Mechanical 83-Keys Red Switch - WhiteOpens in a new window or tab",
+        "price": 3336,
+        "status": null,
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "RK ROYAL KLUDGE Sink87G RGB 2.4G Wireless / Wired TLK Mechanical Gaming KeyboardOpens in a new window or tab",
+        "price": 4288,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Perixx PERIBOARD-535RD Es Full-Size Keyboard With Ergonomic Design Brand NewOpens in a new window or tab",
+        "price": 6371,
+        "status": null,
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "8BitDo - Retro Joystick and Mechanical Keyboard - N EditionOpens in a new window or tab",
+        "price": 9999,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": 217
+    },
+    {
+        "name": "10pcs Razer Orange Tactile Mechanical Switches Gen-3Opens in a new window or tab",
+        "price": 1399,
+        "status": null,
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Redragon K660RGB-PRO K556 TKL Wireless Gaming Keyboard, 80 87 Keys BT/2.4Ghz ...Opens in a new window or tab",
+        "price": 4891,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Gateron Black Ink V2 Mechanical Keyboard Linear Switches 60g Force 5 PinOpens in a new window or tab",
+        "price": 2999,
+        "status": null,
+        "shipping": 539,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingWomier 60% WK61 Mechanical Keyboard RGB Wired, Linear Red Switch, Hot Swap, BlueOpens in a new window or tab",
+        "price": 2795,
+        "status": null,
+        "shipping": 965,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingNIB Razer Blackwidow V3 RZ03-03540200 Mechanical Gaming Keyboard (E10011315)Opens in a new window or tab",
+        "price": 6500,
+        "status": null,
+        "shipping": 1312,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingCustom Mechanical Gaming Keyboard 75% RGBOpens in a new window or tab",
+        "price": 5000,
+        "status": null,
+        "shipping": 1900,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Corsair Strafe Mechanical Keyboard Keycaps Single Keycap REPLACEMENTOpens in a new window or tab",
+        "price": 399,
+        "status": null,
+        "shipping": 425,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "YUNZII B87 Blue Heart keycaps + AccessoriesOpens in a new window or tab",
+        "price": 1998,
+        "status": null,
+        "shipping": 875,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Bilingual USB Wired Arabic English Mechanical Keyboard Black For Computer XA BEAOpens in a new window or tab",
+        "price": 2756,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingWomier S-K80 75% Keyboard RGB Color Mechanical Gaming Black/Kanagawa ThemeOpens in a new window or tab",
+        "price": 5000,
+        "status": null,
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "TMBK Mechanical Keyboard Wired Gaming Keyboard BRAND NEW UNTOUCHED\u2757\ufe0f\u2757\ufe0f\u2757\ufe0fOpens in a new window or tab",
+        "price": 2200,
+        "status": null,
+        "shipping": 1491,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "STOGA Wired Mechanical Gaming Keyboard - Mini Retro Style Chocolate colorOpens in a new window or tab",
+        "price": 2999,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "x41 Hand Lubed NovelKey Cream Linear Mechanical Keyboard Switches (Krytox 205g0)Opens in a new window or tab",
+        "price": 2900,
+        "status": null,
+        "shipping": 552,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Logitech G915 Mechanical Replacement KEY CAP ONLY RGB Keyboard OEM PARTS G913Opens in a new window or tab",
+        "price": 1099,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingLogitech Alto Keys K98M  - Lilac (All English, Imported from China)Opens in a new window or tab",
+        "price": 7000,
+        "status": null,
+        "shipping": 1335,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Alienware Low Profile RGB Mechanical Gaming Keyboard - AW510K -Dark side of theOpens in a new window or tab",
+        "price": 7786,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingAULA S99 Wireless Mechanical Keyboard 99 Keys BT5.0Opens in a new window or tab",
+        "price": 8999,
+        "status": null,
+        "shipping": 1105,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Lofree - Ghost Full POM Low Profile Switches 90PCS NewOpens in a new window or tab",
+        "price": 2500,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingAjazz AKS068 RGB Wired Mechancial Gaming Keyboard Mini 65% Layout Hot Swap KnobOpens in a new window or tab",
+        "price": 3399,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Wireless Creamy Keyboard with ScreenKnob 2.4G/Bluetooth RGB Mechanical KeyboardOpens in a new window or tab",
+        "price": 7884,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Haven65 \u2014 Black PVD WKOpens in a new window or tab",
+        "price": 36000,
+        "status": null,
+        "shipping": 1013,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingDucky One KeyboardOpens in a new window or tab",
+        "price": 6000,
+        "status": null,
+        "shipping": 2075,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "RGB Mouse & Backlit Keyboard, 104-Key Suspension Keycap, Wired USB for PCOpens in a new window or tab",
+        "price": 1529,
+        "status": null,
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Hand Lubed/Filmed Huano Sakura Linear Switches For Mechanical KeyboardsOpens in a new window or tab",
+        "price": 7400,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingAuthentic Logitech MX Mechanical Wireless Illuminated Keyboard Tactile GraphiteOpens in a new window or tab",
+        "price": 7500,
+        "status": null,
+        "shipping": 1500,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "10pcs Razer Orange Tactile Mechanical Switches Gen-3Opens in a new window or tab",
+        "price": 1655,
+        "status": null,
+        "shipping": 500,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingCustomize USB Programmable Mechanical Keyboard 6 Keys Macro keypad Shortcut DIYOpens in a new window or tab",
+        "price": 1973,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "For Cherry MX Blue Tactile Switch Mechanical Keyboard Switch Replacement LotOpens in a new window or tab",
+        "price": 699,
+        "status": null,
+        "shipping": 399,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Teru x X-Raypad Keycaps & Cerberus Strap PBT Keycap Set, 110 Key - Red/BlackOpens in a new window or tab",
+        "price": 3300,
+        "status": null,
+        "shipping": 965,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingWooting 60HE Mechanical KeyboardOpens in a new window or tab",
+        "price": 15000,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Logitech POP Keys Wireless Mechanical Emoji Keyboard - Bluetooth - DaydreamOpens in a new window or tab",
+        "price": 3599,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingCorsair K100 Air RGB Wireless Keyboard - Black CH-913A01U-NA MX CherryOpens in a new window or tab",
+        "price": 15497,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Razer Keyboard 4X Purple & Black Clicky Optical Replacement SwitchesOpens in a new window or tab",
+        "price": 890,
+        "status": null,
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingGateron Pro 2.0 TACTILE Mechanical Keyboard Switches  Brown  59 PIECESOpens in a new window or tab",
+        "price": 1500,
+        "status": null,
+        "shipping": 500,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "WOBKEY Rainy75 75% Aluminum Triple-Mode Connectivity Mechanical KeyboardOpens in a new window or tab",
+        "price": 13500,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Wireless Bluetooth Keyboard, Typewriter Retro Round Keycaps Keyboard, Bluetoo...Opens in a new window or tab",
+        "price": 5341,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Velocifire Km01 Wireless Keyboard Black *NEW*Opens in a new window or tab",
+        "price": 3382,
+        "status": null,
+        "shipping": 500,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingDell L100 Keyboard 104 Key USB Wired Keyboard Standard Size Pre-Owned V-033Opens in a new window or tab",
+        "price": 2500,
+        "status": null,
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingThermaltake Tt eSPORTS Knucker Gaming Keyboard Mechanical Feel Red Keys USBOpens in a new window or tab",
+        "price": 2198,
+        "status": null,
+        "shipping": 1832,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "White Mechanical Keyboard - IKBC F87 -Red Cherry no RGB -87keysOpens in a new window or tab",
+        "price": 5500,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "TMKB 60% Mechanical Gaming Keyboard with Red Linear Switches & LED BacklightingOpens in a new window or tab",
+        "price": 4799,
+        "status": null,
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Shop on eBay",
+        "price": 2000,
+        "status": null,
+        "shipping": null,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Shop on eBay",
+        "price": 2000,
+        "status": null,
+        "shipping": null,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Wireless Creamy Keyboard with ScreenKnob 2.4G/Bluetooth RGB Mechanical KeyboardOpens in a new window or tab",
+        "price": 7884,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Haven65 \u2014 Black PVD WKOpens in a new window or tab",
+        "price": 36000,
+        "status": null,
+        "shipping": 1013,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Lemokey Gaming Keyboard Red Switch LED Backlit  TKLOpens in a new window or tab",
+        "price": 1800,
+        "status": null,
+        "shipping": 919,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "White Mechanical Keyboard - IKBC F87 -Red Cherry no RGB -87keysOpens in a new window or tab",
+        "price": 5500,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Razer BlackWidow V4 Pro Mechanical Green Clicky USB C 8Macros Keyboard WhiteOpens in a new window or tab",
+        "price": 14999,
+        "status": "eBay Refurbished",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 34
+    },
+    {
+        "name": "TMKB 60% Mechanical Gaming Keyboard with Red Linear Switches & LED BacklightingOpens in a new window or tab",
+        "price": 4799,
+        "status": null,
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingDucky One 2 Mini RGB Mechanical Keyboard PBT Keycaps Black Blue Brown SwitchOpens in a new window or tab",
+        "price": 99,
+        "status": null,
+        "shipping": 1207,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "ATTACK SHARK X65 HE Wired Magnetic Switch Rapid Trigger Gaming KeyboardOpens in a new window or tab",
+        "price": 3740,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New ORIGINAL IBM Model M KeyCaps Genuine, ENGLISH & SPANISHOpens in a new window or tab",
+        "price": 199,
+        "status": null,
+        "shipping": 529,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "AULA F2088 Typewriter Style Mechanical Gaming Keyboard Wired, Blue SwitchesOpens in a new window or tab",
+        "price": 2718,
+        "status": null,
+        "shipping": 668,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Wobkey Rainy 75 Pro Luna Limited Color Mechanical Keyboard White Aluminum - NewOpens in a new window or tab",
+        "price": 15000,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "IBM Model M Keyboard KEYCAPS Buckling Spring Caps GENUINE REPLACEMENTS Key CapsOpens in a new window or tab",
+        "price": 295,
+        "status": null,
+        "shipping": null,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingAzio MK Mac USB Keyboard MK- MAC-U01 White Backlit Mechanical KeyboardOpens in a new window or tab",
+        "price": 6000,
+        "status": null,
+        "shipping": 1900,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Geodmaer  Mechanical Keyboard \u2014 65% (67 Key) Gaming Keyboard, Hot-SwapOpens in a new window or tab",
+        "price": 1995,
+        "status": null,
+        "shipping": 799,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Asceny Mechanical Gaming Keyboard, Clicky Sounds, Lights, Multiple Modes,No CordOpens in a new window or tab",
+        "price": 3000,
+        "status": null,
+        "shipping": 1520,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "DrunkDeer G65 Magnetic Mechanical Keyboard 65% Rapid Trigger Gaming RGB BlackOpens in a new window or tab",
+        "price": 4000,
+        "status": null,
+        "shipping": 965,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Ziyou Lang K61 Gaming Keyboard Redwolf In WhiteOpens in a new window or tab",
+        "price": 3500,
+        "status": null,
+        "shipping": 1207,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Redragon K556 PRO Upgraded Wireless RGB Gaming Keyboard, BT/2.4Ghz Tri-ModeOpens in a new window or tab",
+        "price": 6600,
+        "status": null,
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingKinesis Advantage2 LFQ Ergonomic Mechanical Keyboard \u2013 KB600LFQOpens in a new window or tab",
+        "price": 15999,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingLOFREE Edge Low Profile Mechanical Keyboard, 75% Rechargeable Bluetooth and W...Opens in a new window or tab",
+        "price": 6000,
+        "status": null,
+        "shipping": 1284,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Razer Green Switch Blackwidow v3  10pcs- genuine- Replacement Switches ships USAOpens in a new window or tab",
+        "price": 1299,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": 13
+    },
+    {
+        "name": "Logitech G Pro TKL Mechanical Wired Gaming Keyboard GX Blue Switch - 920-009388Opens in a new window or tab",
+        "price": 5400,
+        "status": "eBay Refurbished",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Lobo Keycap Handmade Venom Resin Mechanical Keyboard Artisan KeycapOpens in a new window or tab",
+        "price": 2499,
+        "status": null,
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "ATTACK SHARK X85 Wireless Mechanical Keyboard, 75% Gasket PBT RGB Side-PrintedOpens in a new window or tab",
+        "price": 5790,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "PBT keycaps, 135 Keys Double Shot Keycaps Side Engraved Transparent Keycap Se...Opens in a new window or tab",
+        "price": 6147,
+        "status": null,
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingHyperX Origins 2 1800 \u2013 Gaming Keyboard- NewOpens in a new window or tab",
+        "price": 11499,
+        "status": null,
+        "shipping": 1677,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Single Replacement Keycap Corsair K70 LUX RGB Mechanical Keyboard Keys You PickOpens in a new window or tab",
+        "price": 495,
+        "status": null,
+        "shipping": 500,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Copy and Paste 2-Key Keyboard SAYO OSU Keypad Hotswap One Handed Mechanical G...Opens in a new window or tab",
+        "price": 1524,
+        "status": null,
+        "shipping": 999,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Blue Hollow Mechanical \u2013 Superior Ergonomics, Bombproof Build QualityOpens in a new window or tab",
+        "price": 4579,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "CyberPowerPC Skorpion K2 CPSK304 RGB Mechanical Gaming Keyboard - Kontact BlackOpens in a new window or tab",
+        "price": 3799,
+        "status": null,
+        "shipping": 965,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingNuPhy Air60 V2 Wireless Mechanical Keyboard (Gateron Moss) + Nuphy NuFolio V3Opens in a new window or tab",
+        "price": 8900,
+        "status": null,
+        "shipping": 1207,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Logitech K835 TKL Wired Mechanical Keyboard - Spanish LayoutOpens in a new window or tab",
+        "price": 3324,
+        "status": null,
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Brown Chocolate SA Keycaps ABS  Spherical Keycaps For Custom Mechanical KeebOpens in a new window or tab",
+        "price": 4499,
+        "status": null,
+        "shipping": 1399,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingCustom Marathon Game Keycap Set for English QWERTY Mechanical Keyboard PlasticOpens in a new window or tab",
+        "price": 2362,
+        "status": null,
+        "shipping": 552,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "HP OMEN -  Gaming Mechanical Keyboard - Black - USEDOpens in a new window or tab",
+        "price": 1900,
+        "status": null,
+        "shipping": 1200,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "SteelSeries Apex Pro Gen 3 Full Size Wired Mechanical OmniPoint Gaming KeyboardOpens in a new window or tab",
+        "price": 16200,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "NEW Replacement keycaps for Logitech G815 G915 G813 G913 RGB Mechanical KeyboardOpens in a new window or tab",
+        "price": 699,
+        "status": null,
+        "shipping": 399,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "DROP Expression Series Togekey TKL Mechanical Keyboard - *NEW*Opens in a new window or tab",
+        "price": 5999,
+        "status": null,
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingMageGee LIGHT100 Wireless Keyboard Gasket Hot Swappable Mechanical 8000mAh PinkOpens in a new window or tab",
+        "price": 5000,
+        "status": null,
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Epomaker x Aula F75 75% Wireless Mechanical Keyboard Hot Swappable RGB Ice VeinOpens in a new window or tab",
+        "price": 9499,
+        "status": null,
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Qwerkywriter S Black Chrome Typewriter Mechanical Wired & Wireless KeyboardOpens in a new window or tab",
+        "price": 2999,
+        "status": null,
+        "shipping": 1499,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingShortcut Studio Bridge75 Plus - Black with SC SwitchOpens in a new window or tab",
+        "price": 7000,
+        "status": null,
+        "shipping": 1000,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Razer - Huntsman V3 Pro TKL Wired Analog OpticalOpens in a new window or tab",
+        "price": 12000,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Cartoon Chiikawa Keycaps 131 Keys PBT Key Cap for Mechanical Keyboard Full SetOpens in a new window or tab",
+        "price": 4591,
+        "status": null,
+        "shipping": 2200,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "2025 KFC ROG Keyboard KeyCap Replace Completed Set 6 PCS NIPOpens in a new window or tab",
+        "price": 1299,
+        "status": null,
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "SDYZ X XVX Doubleshot PBT Keycaps 60 75 100 Percent - Shine through Keycaps, forOpens in a new window or tab",
+        "price": 1964,
+        "status": null,
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingCompact 60% Mechanical Gaming Keyboard, LED Backlit 68 Keys Mini Wired KeyboardOpens in a new window or tab",
+        "price": 3826,
+        "status": null,
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "KenoKeys Blue Lock Yoichi Isagi Anime Keycap Set For Mechanical Keyboard CherryOpens in a new window or tab",
+        "price": 3967,
+        "status": null,
+        "shipping": 608,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "132 White Keycaps, Side Print PBT, Double Shot Shine Through, Cherry ProfileOpens in a new window or tab",
+        "price": 2590,
+        "status": null,
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Low Profile Keycaps, Shine Through Keycaps, Custom Keyboard Keycaps, Keycaps ...Opens in a new window or tab",
+        "price": 2451,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "TTC Frozen Switch V2 Mechanical Keyboard Silent Switches 3 Pins Linear 39Gf RGBOpens in a new window or tab",
+        "price": 2916,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "TTC Pink mechanical keyboard switch Linear  90 pcsOpens in a new window or tab",
+        "price": 1499,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New Listing10*Switch Cap For Logitech G910 G810 G512 G513 G Pro K840 Mechanical KeyboardOpens in a new window or tab",
+        "price": 1287,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Gazzew Boba U4 Silent Tactile Switches lot for Mechanical KeyboardOpens in a new window or tab",
+        "price": 1185,
+        "status": null,
+        "shipping": 488,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "9-Key Switch Tester Mechanical Keyboard Sampler Keycap Switch for Cherry MXOpens in a new window or tab",
+        "price": 1597,
+        "status": null,
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "3/4 keys Mechanical Keyboard Keychain Fidget Stress Relief for AdultsOpens in a new window or tab",
+        "price": 649,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingPurple Mixed Double Shot 123 PBT OEM Profile Keyset for MX Switches MechanicalOpens in a new window or tab",
+        "price": 1000,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "X4 Wired Mechanical Keyboard with Number Pad, USB-C Hot Swappable Custom Keyb...Opens in a new window or tab",
+        "price": 3884,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Nimble NBK-2104-5/S PS2 Soft Key Tested/Working Mechanical KeyboardOpens in a new window or tab",
+        "price": 2499,
+        "status": null,
+        "shipping": 1337,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "DARKFLASH DF98 MECHANICAL KEYBOARD, 3-MODES BT/2.4GHZ/USB-C, GASKET - GREENOpens in a new window or tab",
+        "price": 4008,
+        "status": null,
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Shop on eBay",
+        "price": 2000,
+        "status": null,
+        "shipping": null,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Shop on eBay",
+        "price": 2000,
+        "status": null,
+        "shipping": null,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingWooting 60he pcb board working condition 60% keyboard pcb rapid triggerOpens in a new window or tab",
+        "price": 8000,
+        "status": null,
+        "shipping": 1000,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "SAMA SM68 Mechanical Keyboard RGB Hot-Swap 68 Keys USB-C Open BoxOpens in a new window or tab",
+        "price": 2900,
+        "status": null,
+        "shipping": 1600,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "RK ROYAL KLUDGE RK61 Wireless  Mechanical Keyboard,  Compact Gaming KeyboardOpens in a new window or tab",
+        "price": 3900,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "HyperX Alloy Origins Red Switch Mechanical Gaming Keyboard - Black (4P4F6AAABA)Opens in a new window or tab",
+        "price": 8500,
+        "status": null,
+        "shipping": 662,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "SK6812 MINI-E RGB LED 100pcs for Mechanical Keyboard Backlight UnderglowOpens in a new window or tab",
+        "price": 1599,
+        "status": null,
+        "shipping": 875,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Rk61 White Wireless Mechanical Keyboard Tri- modes Red SwitchOpens in a new window or tab",
+        "price": 3499,
+        "status": null,
+        "shipping": 1764,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "NIB/Sealed Kaihl Ranked Keyboard Switches for Mechanical Gaming Keyboard  65 pcsOpens in a new window or tab",
+        "price": 2725,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Ducky x Varmilo Miya Pro Mechanical Keyboard  Cherry MX Blue switchesOpens in a new window or tab",
+        "price": 5000,
+        "status": null,
+        "shipping": 716,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "iKBC CD87 v2 Mechanical Ergonomic Keyboard with Cherry MX  Switch, TenkeylessOpens in a new window or tab",
+        "price": 7688,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Ranked Keyboard Switches 90 PackOpens in a new window or tab",
+        "price": 1399,
+        "status": null,
+        "shipping": 577,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingAula F99 Mechanical Keyboard White Gray Wood Switch - New / Open BoxOpens in a new window or tab",
+        "price": 4499,
+        "status": null,
+        "shipping": 1000,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Single white Replacement keycap for Alienware AW510K mechanical KeyboardOpens in a new window or tab",
+        "price": 499,
+        "status": null,
+        "shipping": 1000,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "TTC Silent Red mechanical keyboard switch linear  90 pcsOpens in a new window or tab",
+        "price": 1998,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "OUSAID DIY Mechanical Keyboard Hot-Swap BT 5.0/2.4G/ WiredOpens in a new window or tab",
+        "price": 5300,
+        "status": null,
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Wireless Keyboard 2.4G/Bluetooth/USB-C RGB Mechanical Keyboard, Hot Swappable USOpens in a new window or tab",
+        "price": 7200,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Durgod Taurus K320 CherryMX Brown KeyboardOpens in a new window or tab",
+        "price": 3173,
+        "status": null,
+        "shipping": 1830,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "DURGOD Venus Gateron Black Mechanical Gaming Keyboard RGB Backlit Wired USB-COpens in a new window or tab",
+        "price": 3000,
+        "status": null,
+        "shipping": 965,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingFlytech Translucent Candy Bear Key Caps Set Mechanical Keyboard 10pc totalOpens in a new window or tab",
+        "price": 1600,
+        "status": null,
+        "shipping": 851,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "ZORNHER ZH980 Mechanical Keyboard - Starry NightOpens in a new window or tab",
+        "price": 6895,
+        "status": null,
+        "shipping": 1041,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "QL75 Wireless Typewriter Style Hot Swap Retro Mechanical Keyboard BT / 2.4gzOpens in a new window or tab",
+        "price": 4800,
+        "status": null,
+        "shipping": 750,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "GMK Noire Brass Salvun Metal Artisan - Brand New, SealedOpens in a new window or tab",
+        "price": 5000,
+        "status": null,
+        "shipping": 562,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingAnime Spice and Wolf Horo Theme Keycaps 122pcs Full Set for Mechanical KeyboardOpens in a new window or tab",
+        "price": 4610,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "FreeWolf M87 Dual Mode Wireless Mechanical Keyboard Keycaps Mute Keyboard PBTOpens in a new window or tab",
+        "price": 3000,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "HJKK820, Wired Mechanical Keyboard, Typewritter Style, Lighted, Read DetailsOpens in a new window or tab",
+        "price": 2499,
+        "status": null,
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Gateron Magnetic Jade Linear Switches lot for Mechanical KeyboardOpens in a new window or tab",
+        "price": 835,
+        "status": null,
+        "shipping": 488,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "EWEADN NK20 Wireless Retro Mechanical Numpad with Knob, Bluetooth/2.4GHz/USB-...Opens in a new window or tab",
+        "price": 4039,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingASUS ROG Claymore II Wireless Mechanical Gaming Keyboard RX SeriesOpens in a new window or tab",
+        "price": 20000,
+        "status": null,
+        "shipping": 2200,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Womier Pudding Keycaps, PBT Shine Through Keycaps 165 Keys Set Custom Key caps SOpens in a new window or tab",
+        "price": 2179,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Hand Lubed and Filmed C3 Equalz Kiwi Tactile Switches (110 Count)Opens in a new window or tab",
+        "price": 15500,
+        "status": null,
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Durgod Taurus K320 TKL Mechanical Keyboard - Space Gray (LED WHITE)Opens in a new window or tab",
+        "price": 6998,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingHyperX Pudding Keycaps -Black for mechanical keyboards - shine through pbtOpens in a new window or tab",
+        "price": 1000,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "2x Ear Pad Cushion Replacement for Beats Dre Studio 2 3 Wireless / Wired 2.0/3.0Opens in a new window or tab",
+        "price": 919,
+        "status": null,
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "4IN1 LED Gamer Bundle Mechanical Kits,RGB PC Gaming Keyboard Mouse &Headset SetOpens in a new window or tab",
+        "price": 3134,
+        "status": null,
+        "shipping": 99,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Brand New Apple Q6 Mechanical Keyboard White Keycap Set model #A1016Opens in a new window or tab",
+        "price": 2899,
+        "status": null,
+        "shipping": 844,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Logitech MX Mechanical Keyboard ~ Replacement Key Keycaps ~ Graphite Gray YR0082Opens in a new window or tab",
+        "price": 999,
+        "status": null,
+        "shipping": 74,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Chainsaw Man Reze PBT Keycaps 123 Keys Cherry Profile Dye-Sub Anime GamingOpens in a new window or tab",
+        "price": 2630,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Authentic GMK Sumi Desk Mat - Sakura (Brand New, Unopened)Opens in a new window or tab",
+        "price": 2500,
+        "status": null,
+        "shipping": 897,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Mizar MZ60 Luna 60% Hot-Swap Mechanical Gaming Keyboard RGB Lighting W/USBOpens in a new window or tab",
+        "price": 1200,
+        "status": null,
+        "shipping": 1207,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "WS Wugue Studio keyboard switches - Red - 105 pcs (3 boxes of 35) 3D PrintingOpens in a new window or tab",
+        "price": 3500,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Custom Mechanical Keyboard, Lubed Switches RK61 (See Description)Opens in a new window or tab",
+        "price": 7500,
+        "status": null,
+        "shipping": 577,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "AULA F87 Pro Wireless Tri-Mode Mechanical Keyboard RGB Hot-Swap  for Windows/MacOpens in a new window or tab",
+        "price": 6490,
+        "status": null,
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Drop + OLKB Planck REV6 No Case MX Compatible Plate No Keycaps/Swithces Hot-SwapOpens in a new window or tab",
+        "price": 4299,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "GMK Sumi RAMA Metal Artisan (Kanji) - New, UnusedOpens in a new window or tab",
+        "price": 4000,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingDygma Defy Keyboard: Atlantic Blue, Wireless. RGBW with Underglow and TentingOpens in a new window or tab",
+        "price": 42500,
+        "status": null,
+        "shipping": 886,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "LINEAR Mechanical Keyboard Switch Tester SAMPLE PACK - Creams, Tangerine, AlpacaOpens in a new window or tab",
+        "price": 1798,
+        "status": null,
+        "shipping": 649,
+        "free_returns": null,
+        "items_sold": 306
+    },
+    {
+        "name": "XVX WOB Keycaps 168 Keys, Double Shot PBT Custom Keycap Set, Minimalist Style...Opens in a new window or tab",
+        "price": 2041,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Black Translucent PBT Keycaps 163 Keys Double Shot Cherry ProfileOpens in a new window or tab",
+        "price": 3452,
+        "status": null,
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingCloud Nine C989M Split Ergonomic RGB Mechanical Keyboard Right Half Only BlackOpens in a new window or tab",
+        "price": 3659,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Lubed / Filmed Akko V3 Cream Yellow Pro Linear Switches(70Ct)Opens in a new window or tab",
+        "price": 6500,
+        "status": null,
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Logitech MX Keys Mini Wireless Illuminated Keyboard Bluetooth - 920-010473Opens in a new window or tab",
+        "price": 5499,
+        "status": "eBay Refurbished",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingAula F75 Max Wireless Mechanical Gaming Keyboard TFT Screen Knob USB C to USB AOpens in a new window or tab",
+        "price": 6200,
+        "status": null,
+        "shipping": 885,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingKeychron V1 Max Wireless 75% Mechanical Keyboard RGB Knob WhiteOpens in a new window or tab",
+        "price": 9950,
+        "status": null,
+        "shipping": 2098,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingGaming Mechanical Keyboard with 18 LED Backlit Effects, 100 Keys, Wired DesignOpens in a new window or tab",
+        "price": 4512,
+        "status": null,
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingDucky One Mini Mechanical Keyboard White USB-C Wired QWERTY EnglishOpens in a new window or tab",
+        "price": 6500,
+        "status": null,
+        "shipping": 1000,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "XVX Shine through Keycaps, Black Semi Translucent Keycap Set, Double Shot PBT KeOpens in a new window or tab",
+        "price": 1677,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Hand Lubed/Filmed Keygeek x MZ Y3 Linear Switches For Mechanical KeyboardsOpens in a new window or tab",
+        "price": 5400,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "ATTACK SHARK X85PRO Tri-mode Gasket Mechanical KeyboardOpens in a new window or tab",
+        "price": 5099,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Cherry MX Brown Mechanical Keyboard Switches 30 CountOpens in a new window or tab",
+        "price": 2300,
+        "status": null,
+        "shipping": 552,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingInland MK Pro 75% Prebuilt Mechanical Gaming Keyboard With Brown Switches (#1)Opens in a new window or tab",
+        "price": 4299,
+        "status": null,
+        "shipping": 1500,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "DIERYA 60 Mechanical Keyboard, DK61se Wired Gaming Keyboard with Blue Switche...Opens in a new window or tab",
+        "price": 2500,
+        "status": null,
+        "shipping": 881,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Shop on eBay",
+        "price": 2000,
+        "status": null,
+        "shipping": null,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Shop on eBay",
+        "price": 2000,
+        "status": null,
+        "shipping": null,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "DIERYA 60 Mechanical Keyboard, DK61se Wired Gaming Keyboard with Blue Switche...Opens in a new window or tab",
+        "price": 2500,
+        "status": null,
+        "shipping": 881,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Steel Series Water Proof RBG KeyboardOpens in a new window or tab",
+        "price": 5000,
+        "status": null,
+        "shipping": 965,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Logitech G Pro Mechanical Keyboard Black RGB LED (TESTED)Opens in a new window or tab",
+        "price": 3324,
+        "status": null,
+        "shipping": 1266,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Sayodevice O3C OSU Keyboard Rapid Trigger Hall Switches Magnetic Linear SwitchesOpens in a new window or tab",
+        "price": 6498,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": 12
+    },
+    {
+        "name": "Cherry MX Brown Mechanical Keyboard Switches 30 CountOpens in a new window or tab",
+        "price": 2300,
+        "status": null,
+        "shipping": 552,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingATTACK SHARK 65% Wired RGB Rapid Trigger Gaming Keyboard Magnetic Switch 8000 HzOpens in a new window or tab",
+        "price": 3859,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Krytox GPL 205g0 Switch Lubricant - 10g (5mL) - With Applicator BrushOpens in a new window or tab",
+        "price": 1399,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": 41
+    },
+    {
+        "name": "Storm Interface 2200 series US FORMAT Industrial Keyboard TrackballOpens in a new window or tab",
+        "price": 4988,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Replacement Romer G keycaps for Logitech G512 G513 Mechanical Gaming KeyboardOpens in a new window or tab",
+        "price": 699,
+        "status": null,
+        "shipping": 399,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingRazer Huntsman Mini Black Mechanical Keyboard Portable Compact Wired USBOpens in a new window or tab",
+        "price": 2700,
+        "status": null,
+        "shipping": 1000,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Wireless RGB Mechanical Gaming Keyboard with Tri-Mode Connectivity and BatteryOpens in a new window or tab",
+        "price": 3740,
+        "status": null,
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "New Velocilinx Brennus Wired Mechanical Gaming KeyboardOpens in a new window or tab",
+        "price": 3999,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "GMK Redline - Base Kit KeycapsOpens in a new window or tab",
+        "price": 8000,
+        "status": null,
+        "shipping": 530,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "stealseries keyboared apex m750Opens in a new window or tab",
+        "price": 4000,
+        "status": null,
+        "shipping": 919,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Gopolar Tai-Chi GG86 Mechanical Keyboard KitOpens in a new window or tab",
+        "price": 10000,
+        "status": null,
+        "shipping": 2075,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Glorious GMMK 2 Prebuilt 65% Compact Wired, Linear SwitchesOpens in a new window or tab",
+        "price": 3899,
+        "status": null,
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Royal Kludge RK61 Mechanical Compact RGB Backlit White USB Wired QWERTY KeyboardOpens in a new window or tab",
+        "price": 3000,
+        "status": null,
+        "shipping": null,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New  Qtronix Scorpius 19ADB Mechanical Keypad with Trackball In Open box .(OSSD)Opens in a new window or tab",
+        "price": 1755,
+        "status": null,
+        "shipping": 819,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Yellow Cute Duck Mechanical Keyboard Press Crow USB Interface Keyboard Gifts NEWOpens in a new window or tab",
+        "price": 15682,
+        "status": null,
+        "shipping": 1100,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingPERIBOARD817 Wireless Multi Device Keyboard Full Size Aluminum HousingOpens in a new window or tab",
+        "price": 2802,
+        "status": null,
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Logitech POP Keys Wireless Bluetooth Mechanical Keyboard (Cosmos) (Latin Layout)Opens in a new window or tab",
+        "price": 3499,
+        "status": null,
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingMechanical Keyboard 9 Tester Sampler Keycap for Cherry MX SwitchesOpens in a new window or tab",
+        "price": 1476,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "GAZZEW Mechanical Keyboard Switch Tester Sample Pack U4, U4T, U4Tx, LT, BobagumOpens in a new window or tab",
+        "price": 2799,
+        "status": null,
+        "shipping": 649,
+        "free_returns": null,
+        "items_sold": 503
+    },
+    {
+        "name": "164 Keys Custom PBT Keycaps Cherry Profile Doubleshot Jelly Keycaps Set Fit f...Opens in a new window or tab",
+        "price": 4231,
+        "status": null,
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "VINTAGE | Apple Keyboard II M0487 REPLACEMENT KEY CAPS (SMK MECHANICAL)Opens in a new window or tab",
+        "price": 800,
+        "status": null,
+        "shipping": 624,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingPBT Keycaps Key Caps For Corsair K70 Logitech G710 Mechanical KeyboardOpens in a new window or tab",
+        "price": 1076,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Razer Blackwidow X Chroma Mechanical OEM Factory SINGLE KEYCAP ONLY Backlit KeysOpens in a new window or tab",
+        "price": 250,
+        "status": null,
+        "shipping": 500,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Leopold x MK FC660M Vapor 65% Mechanical Bluetooth Keyboard Cherry MX BrownsOpens in a new window or tab",
+        "price": 3746,
+        "status": null,
+        "shipping": 1155,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "BEST VALUE Optical Mechanical Gaming Keyboard ZIDLI ZGK01,Orange BacklightOpens in a new window or tab",
+        "price": 2999,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Lemokey X3 Mechanical Gaming Keyboard Wired, 100% Layout, Red Switches, BlackOpens in a new window or tab",
+        "price": 2247,
+        "status": null,
+        "shipping": 1997,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Hand Lubed/Filmed Outemu Cream Yellow Silent Tactile Switches For KeyboardsOpens in a new window or tab",
+        "price": 7000,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "GMK Sumi Novelties Kit -  Sealed/BNIB Keycap SetOpens in a new window or tab",
+        "price": 4000,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "outemu Blue Switch 3 Pin Keyswitch- Gateron& Cherry MX Equivalent DIY Replace...Opens in a new window or tab",
+        "price": 1643,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Corsair K70 RGB TKL Mechanical Keyboard Spare Replacement Leg Stall Feet Foot PrOpens in a new window or tab",
+        "price": 851,
+        "status": null,
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 36
+    },
+    {
+        "name": "New ListingZIYOU LANG RK-T8 Mechanical Gaming KeyboardOpens in a new window or tab",
+        "price": 1650,
+        "status": null,
+        "shipping": 850,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Glorious GMMK Switch Sample Pack (38 Pack)Opens in a new window or tab",
+        "price": 799,
+        "status": null,
+        "shipping": 500,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Vintage NMB Hi-Tek RT101+ 117342-007 Mechanical Clicky AT Keyboard TestedOpens in a new window or tab",
+        "price": 4999,
+        "status": null,
+        "shipping": 999,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Akko V3 Cream Yellow Pro Linear SwitchesOpens in a new window or tab",
+        "price": 606,
+        "status": null,
+        "shipping": 500,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "RGB Mechanical GamingKeyboard, 78 Keys Hot-Swap Mechanical Keyboard for PC/MacOpens in a new window or tab",
+        "price": 5176,
+        "status": null,
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Silver Aluminum Mechanical Keyboard Case. New. Open BoxOpens in a new window or tab",
+        "price": 2200,
+        "status": null,
+        "shipping": 719,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "4IN1 LED Gamer Bundle Mechanical Kits,RGB PC Gaming Keyboard Mouse &Headset SetOpens in a new window or tab",
+        "price": 3099,
+        "status": null,
+        "shipping": 199,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Razer Analog Linear Black Optical Keyboard Switches - 4 PiecesOpens in a new window or tab",
+        "price": 1499,
+        "status": null,
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 16
+    },
+    {
+        "name": "Single Black Replacement keycap for Alienware AW510K mechanical KeyboardOpens in a new window or tab",
+        "price": 499,
+        "status": null,
+        "shipping": 1000,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "4Keys USB Mini Mechanical Keyboard DIY Custom Shortcut Macro Programmable KeypadOpens in a new window or tab",
+        "price": 1580,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Tt eSports Poseidon KB-PZX LED Illuminated Mechanical Keyboard FREE SHIPPINGOpens in a new window or tab",
+        "price": 2999,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingHiground HG68 Mechanical Keyboard Blue Wired QWERTY English LayoutOpens in a new window or tab",
+        "price": 13000,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "FL-CMMK Keyboard DIY Kit MK750 Black transparent body keyboard barebone RGBOpens in a new window or tab",
+        "price": 4999,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Anime Konosuba Megumin Theme PBT Keycap 122Pcs Full Set for Mechanical KeyboardOpens in a new window or tab",
+        "price": 4610,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "108 Keys Anime Demon Slayer PBT Keycap Set for Mechanical Keyboard only Key CapsOpens in a new window or tab",
+        "price": 3999,
+        "status": null,
+        "shipping": 699,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Keyboard Plate support forkOpens in a new window or tab",
+        "price": 595,
+        "status": null,
+        "shipping": 500,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Akko X Monsgeek Bun Wonderland MG108B Keyboard Keycaps, KEYCAPS ONLYOpens in a new window or tab",
+        "price": 899,
+        "status": null,
+        "shipping": 800,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Authentic GMK Sumi Bundle (Base Kit, Novelties Kit, Sakura Desk Mat) - SealedOpens in a new window or tab",
+        "price": 13000,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "10x Kailh Box Switch Navy RGB SMD for Mechanical Gaming Keyboard 2 pin SwitchOpens in a new window or tab",
+        "price": 1499,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New Listing4Keys USB Mini Mechanical Keyboard DIY Custom Shortcut Macro Programmable KeypadOpens in a new window or tab",
+        "price": 1580,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Le Petit Prince Keycaps MechanicalOpens in a new window or tab",
+        "price": 2100,
+        "status": null,
+        "shipping": 1000,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingAuthentic Logitech MX Mechanical Wireless Illuminated Keyboard Tactile GraphiteOpens in a new window or tab",
+        "price": 7500,
+        "status": null,
+        "shipping": 1000,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingThe TERMINATOR 40th Anniversary SkyNet LED Keyboard & Mouse Combo NEW SEALEDOpens in a new window or tab",
+        "price": 9500,
+        "status": null,
+        "shipping": 1295,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Pok\u00e9mon Pikachu Keycaps set PBT Dyesub for Cherry MX Mechanical Keyboards MAOpens in a new window or tab",
+        "price": 2799,
+        "status": null,
+        "shipping": 999,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "USB Nibble 65% 72 Key Programmable QMK Mechanical Keyboard Kit (White)Opens in a new window or tab",
+        "price": 8549,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Hand Lubed/Filmed TTC Venus Linear SwitchesOpens in a new window or tab",
+        "price": 10600,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Shop on eBay",
+        "price": 2000,
+        "status": null,
+        "shipping": null,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Shop on eBay",
+        "price": 2000,
+        "status": null,
+        "shipping": null,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "White Keyboard Made By Koorul Model MKC01 60% Blue SwitchesOpens in a new window or tab",
+        "price": 2599,
+        "status": null,
+        "shipping": null,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Mechanical Game Keyboard Blue Black Brown Switch 104 Keys USB Wired RGB BacklitOpens in a new window or tab",
+        "price": 5975,
+        "status": null,
+        "shipping": 350,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "DIERYA DK61 Pro 60% Wireless/Wired Mechanical Mini Gaming Keyboard ProgrammableOpens in a new window or tab",
+        "price": 2125,
+        "status": null,
+        "shipping": 1764,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Mechanical 61 keyboard wired blue axis office keyboard gaming gaming illuminatedOpens in a new window or tab",
+        "price": 5900,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "ATTACK SHARK X68MAX HE 60% Wired Magnetic Switch Keyboard,Full Aluminum CNCOpens in a new window or tab",
+        "price": 6089,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Wireless Mechanical Keyboard, BT5.0USB-C/2.4GHz Swappable Custom Gaming KeyboardOpens in a new window or tab",
+        "price": 7900,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "RK ROYAL KLUDGE RK61 60% Mechanical Gaming Keyboard RGB Backlit Red SwitchOpens in a new window or tab",
+        "price": 3999,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "DROP KAIHUA Kailh Bronze Mechanical Keyboard Switches - Tactile & Clicky 61pcsOpens in a new window or tab",
+        "price": 1998,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Razer BlackWidow Elite Mechanical Switch Gaming Keyboard (/RT6-15411-RZ03-026...Opens in a new window or tab",
+        "price": 5999,
+        "status": "eBay Refurbished",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "New Macropad Programming Keyboard RGB Mini Hot Swap Gaming Custom Knob KeypadsOpens in a new window or tab",
+        "price": 1299,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Titanium Switch Puller for Mechanical Keyboards - Ergonomic 1-Piece SolidOpens in a new window or tab",
+        "price": 1195,
+        "status": null,
+        "shipping": 500,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "GUNDAM Zaku Keycap 140 Keys PBT OEM Profile for Cherry MX Mechanical KEYBOARDOpens in a new window or tab",
+        "price": 4676,
+        "status": null,
+        "shipping": 2400,
+        "free_returns": null,
+        "items_sold": 17
+    },
+    {
+        "name": "70pc Outemu Honey Peach V3 Switch,Silent Keyboard Switches,Pre-Lubed Linear..Opens in a new window or tab",
+        "price": 1998,
+        "status": null,
+        "shipping": 752,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "NEW TYPEMASTER 180 Keyboard Kit W/ Extras - SLIVER/RED WKOpens in a new window or tab",
+        "price": 46299,
+        "status": null,
+        "shipping": 1830,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "4IN1 RGB PC Gaming Keyboard Mouse & Headset Set LED Gamer Bundle Mechanical KitsOpens in a new window or tab",
+        "price": 3268,
+        "status": null,
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "White Compact Mechanical Keyboard English Keycaps Transparent Switches QWERTYOpens in a new window or tab",
+        "price": 4500,
+        "status": null,
+        "shipping": 1000,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Hot Gaming Mechanical Keyboard 104 Keys Wired Backlit Metal Anti-ghostingOpens in a new window or tab",
+        "price": 14758,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "DIY Key Cap 104 Keys Retro Steam Punk Typewriter Mechanical Keyboard KeycapOpens in a new window or tab",
+        "price": 1516,
+        "status": null,
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 58
+    },
+    {
+        "name": "SHURIKEY GEAR SHT68 Mechanical Keyboard (Lubed Banana Yellow Switches) - WHITEOpens in a new window or tab",
+        "price": 4999,
+        "status": null,
+        "shipping": 1129,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Gateron Switch Opener - Silver (New in Box)Opens in a new window or tab",
+        "price": 1998,
+        "status": null,
+        "shipping": null,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Kaihua Mechanical Keyboard Low Switch for Logitech G815/G915/G813/G913 KeyboardOpens in a new window or tab",
+        "price": 499,
+        "status": null,
+        "shipping": 1000,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New Listing6 Keys Programmable Mechanical Keyboard Macro keypad Red Shaft Switch USB DIYOpens in a new window or tab",
+        "price": 1682,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingHiground HG68 Mechanical Keyboard Wired White Red Blue QWERTYOpens in a new window or tab",
+        "price": 13000,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New Listing[NEEDS REPAIR] Redragon K607P-KBS Wireless 2.4G and Bluetooth Gaming KeyboardOpens in a new window or tab",
+        "price": 1900,
+        "status": null,
+        "shipping": 881,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Lot of 10  Genuine FUTABA - MD-4PCS - Mechanical Keyboard Switch, Push ButtonsOpens in a new window or tab",
+        "price": 2298,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingMacro   Keyboard Knob 6 Key + 1 Knob Programmable Mechanical KeypadOpens in a new window or tab",
+        "price": 1697,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "SK64 Mechanical Keyboard - (Gateron blue switches)Opens in a new window or tab",
+        "price": 4999,
+        "status": null,
+        "shipping": 1000,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "GMK Sumi Base Kit -  Sealed/BNIB Keycap SetOpens in a new window or tab",
+        "price": 10000,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": 81
+    },
+    {
+        "name": "ZIYOU LANG K3 Mechanical Gaming Keyboard 98 Keys with Number pad Chroma RGBOpens in a new window or tab",
+        "price": 3899,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Wireless Gaming Keyboard, Hi-Fi Cute Cat Custom RGB Mechanical KeyboardOpens in a new window or tab",
+        "price": 7000,
+        "status": null,
+        "shipping": null,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "12 Keys Mechanical Gaming Keyboard Single Handed USB Mini RGB Keyboard ShortcutsOpens in a new window or tab",
+        "price": 2760,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingZiyou lang Wireless Mechanical KeyboardOpens in a new window or tab",
+        "price": 4999,
+        "status": null,
+        "shipping": 1764,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Jellyfish Artisan Keycap Rainbow Coral R1 SA Profile Custom Sea Creature KeycapsOpens in a new window or tab",
+        "price": 1766,
+        "status": null,
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "New Listing10x For Bluetooth/ Wireless/Wired Mechanical Keyboard Replacement Key ShaftOpens in a new window or tab",
+        "price": 745,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Mechanical Feel Gaming Keyboard&Mouse-LED Backlit Combo for PC Desktop,USA DesigOpens in a new window or tab",
+        "price": 1698,
+        "status": null,
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Womier Shine through PBT Keycaps 60 75 100 Percent Cherry Profile, Custom Key CaOpens in a new window or tab",
+        "price": 1998,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Mistel X-VIII Mechanical Keyboard with Cherry MX Switch, Full Size, USB Type COpens in a new window or tab",
+        "price": 10699,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingKiiBoom Phantom 81 V3 Pink 75% Transparent Mechanical Keyboard RGB Hot SwapOpens in a new window or tab",
+        "price": 13500,
+        "status": null,
+        "shipping": 1705,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Redragon K617 60% Fizz RGB Wired Mechanical Gaming Keyboard - BlackOpens in a new window or tab",
+        "price": 1698,
+        "status": null,
+        "shipping": 1000,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Tt ESPORTS Challenger Pro Illuminated Back Light Mechanical Pro Gaming KeyboardOpens in a new window or tab",
+        "price": 2499,
+        "status": null,
+        "shipping": 919,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Replacement Gaming Keyboard Tilt Foot Leg Feet for Keychron K2 Mechanical *2pc*Opens in a new window or tab",
+        "price": 878,
+        "status": null,
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "140-Keys Side Printed PBT Gradient Keycaps Grey Cherry Profile MinimalistOpens in a new window or tab",
+        "price": 2299,
+        "status": null,
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingKBDfans Tofu60 2.0 WK Layout Anodized Black w/ Hot-swap PCB, ANSI Fr4 ANSI plateOpens in a new window or tab",
+        "price": 12000,
+        "status": null,
+        "shipping": 792,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "dagaladoo Double Shot PBT Keycaps Set Retro Cherry ProfileOpens in a new window or tab",
+        "price": 2171,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Romer-G Black Mechanical Keyboard Switch for Logitech G810 G910 G413 Pro (4 PCs)Opens in a new window or tab",
+        "price": 1499,
+        "status": null,
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Mechanical Keyboard Switch for Logitech G910 G810 G310 G413 G512 G513 G Pro K840Opens in a new window or tab",
+        "price": 1287,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingAULA F99 Pro White Silent Switches Version Mechanical Tri Mode KeyboardOpens in a new window or tab",
+        "price": 3500,
+        "status": null,
+        "shipping": 1803,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingSwitch Puller Remover Keycaps Tool for Cherry Kailh Gateron Mechanical KeyboardOpens in a new window or tab",
+        "price": 896,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Authentic GMK Stealth Desk Mat - Horizon (Brand New, Unopened)Opens in a new window or tab",
+        "price": 2500,
+        "status": null,
+        "shipping": 897,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingKiiBoom x Maorbeng Meow Meow Squad Keycaps Set, Dye-Sublimation PBTOpens in a new window or tab",
+        "price": 3999,
+        "status": null,
+        "shipping": 1305,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "GMK Sumi Hiragana Kit -  Sealed/BNIB Keycap SetOpens in a new window or tab",
+        "price": 5000,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": 21
+    },
+    {
+        "name": "Anime Solo Leveling Sung Jin-Woo PBT Keycaps For Cherry MX Mechanical KeyboardOpens in a new window or tab",
+        "price": 4988,
+        "status": null,
+        "shipping": 988,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Glorious GMMK Full Size  Wired Mechanical Gaming Keyboard blackOpens in a new window or tab",
+        "price": 7500,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Krytox GPL 205G0 Keyboard Switch Lube GPL 205 Grade 0 for Mechanical KeyboardsOpens in a new window or tab",
+        "price": 1200,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Authentic GMK Sumi Bundle (Base, Novelties, Sakura Mat, Torii & Kanji) - SealedOpens in a new window or tab",
+        "price": 17000,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Hand Lubed/Filmed Durock Ice King Tactile SwitchesOpens in a new window or tab",
+        "price": 10600,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Leopold FC750R OE High-End Mechanical Keyboard GrayBlue/60g-Black/ENG,KOR=Opens in a new window or tab",
+        "price": 15205,
+        "status": null,
+        "shipping": 1499,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Hatsune Wired Keyboard White/Black Miku RGB 104 Key Mechanical Vocaloid Type COpens in a new window or tab",
+        "price": 10500,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Wireless Mechanical Keyboard 4G Gasket Mounted RGB Gaming 75 Layout 82 Keys HotOpens in a new window or tab",
+        "price": 6498,
+        "status": null,
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Random switches And Sprit springsOpens in a new window or tab",
+        "price": 4000,
+        "status": null,
+        "shipping": 507,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Shop on eBay",
+        "price": 2000,
+        "status": null,
+        "shipping": null,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Shop on eBay",
+        "price": 2000,
+        "status": null,
+        "shipping": null,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Random switches And Sprit springsOpens in a new window or tab",
+        "price": 4000,
+        "status": null,
+        "shipping": 507,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "K1000 Mechanical Keyboard Wired 104-key Red Switches Customized Mute KeyboardOpens in a new window or tab",
+        "price": 6378,
+        "status": null,
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Xtrfy  K5 RGB Compact, Mechanical Gaming Keyboard in 65% Format US LayoutOpens in a new window or tab",
+        "price": 5000,
+        "status": null,
+        "shipping": 883,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "MechanicalKeyboard | Hot-Swappable | RGB Cool Lighting | Compatible with PC/MacOpens in a new window or tab",
+        "price": 5392,
+        "status": null,
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Leopold FC750R OE High-End Mechanical Keyboard GrayBlue/60g-Black/ENG,KOR=Opens in a new window or tab",
+        "price": 15205,
+        "status": null,
+        "shipping": 1499,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "MOUNTAIN Everest 60 RGB Mechanical Keyboard - 60% - Midnight Black (Linear 45)Opens in a new window or tab",
+        "price": 3499,
+        "status": null,
+        "shipping": 1499,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Hatsune Wired Keyboard White/Black Miku RGB 104 Key Mechanical Vocaloid Type COpens in a new window or tab",
+        "price": 10500,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "TriboSys\u2122 3203 Tactile Switch Lubricant - 10g (5mL) - With Applicator BrushOpens in a new window or tab",
+        "price": 1399,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": 19
+    },
+    {
+        "name": "Mechanical Keyboard Keycaps 104-Key ABS Key Caps Pink Computer ReplacementOpens in a new window or tab",
+        "price": 2389,
+        "status": null,
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "XVX Double Shot PBT Keycaps Set 216 Keys Cherry Profile Jade TranslucentOpens in a new window or tab",
+        "price": 3574,
+        "status": null,
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Pudding Keycaps, PBT Shine Through Keycaps 165 Keys Set Custom Key caps Set O...Opens in a new window or tab",
+        "price": 2199,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Womier Matcha PBT keycaps, Cherry Profile Keycaps 75 Percent,Double Shot Keyb...Opens in a new window or tab",
+        "price": 2173,
+        "status": null,
+        "shipping": 999,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "NEW Replacement keycaps for Logitech G512 CARBON GX Blue C Mechanical KeyboardOpens in a new window or tab",
+        "price": 699,
+        "status": null,
+        "shipping": 399,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Lemokey X3 Mechanical Gaming Keyboard Wired, 100% Layout, Red Switches, BlackOpens in a new window or tab",
+        "price": 2247,
+        "status": null,
+        "shipping": 1997,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "ZIYOU LANG T8 Mechanical Keyboard  USB C input with RGB LED BacklitOpens in a new window or tab",
+        "price": 1850,
+        "status": null,
+        "shipping": 668,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Glorious GMMK RGB Compact Wired Mechanical Keyboard - GLO-GMMK-COM-BRN-WOpens in a new window or tab",
+        "price": 4550,
+        "status": null,
+        "shipping": 699,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Alpha Gaming Keyboard G23 Fully Mechanical Gaming Keyboard Model 6382Opens in a new window or tab",
+        "price": 1987,
+        "status": null,
+        "shipping": 1337,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingNoppoo Choc Mini 84 - Gateron Blue, White PBT, Black POM Keycaps. No longer madeOpens in a new window or tab",
+        "price": 17500,
+        "status": null,
+        "shipping": 881,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Redragon K521 Rainbow LED Gaming Keyboard | 104 Key Wired Anti Ghosting | PC PS4Opens in a new window or tab",
+        "price": 2999,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "The Legend of Zelda 140 Keycaps PBT Cherry Height Keycap for Cherry MX KeyboardOpens in a new window or tab",
+        "price": 5382,
+        "status": null,
+        "shipping": 699,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Cooler Master SK630 Gaming Keyboard Good Condition UsedOpens in a new window or tab",
+        "price": 3999,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "KS01 2-in-1 Switch Puller Keycap Puller for Mechanical Keyboard,304 StainlessOpens in a new window or tab",
+        "price": 1234,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Legend of Zelda Link's Master Sword Metal Keycap Keycap for Mechanical KeyboardsOpens in a new window or tab",
+        "price": 1995,
+        "status": null,
+        "shipping": 488,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New Listing6-Key DIY Customize USB Programmable Mechanical Keyboard Macro keypad Shortcut dOpens in a new window or tab",
+        "price": 1994,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New Listing9-Key Switch Tester Sampler Keycap MX Switch for Cherry Mechanical KeyboardOpens in a new window or tab",
+        "price": 1476,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "TX AP Mechanical Keyboard Plate-Mounted Stabilizers Rev 4Opens in a new window or tab",
+        "price": 1700,
+        "status": null,
+        "shipping": 755,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "MageGee MK-Storm Mechanical Gaming Keyboard & Blue Keycap Set - Pink / WhiteOpens in a new window or tab",
+        "price": 2500,
+        "status": null,
+        "shipping": 1368,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "SteelSeries Apex 7 TKL Compact Mechanical Gaming Keyboard \u2013 OLED Smart DisplayOpens in a new window or tab",
+        "price": 8499,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Digifast CS-21 Mechanical Gaming Keyboard RGB Gaming Keyboard Tenkeyless TKLOpens in a new window or tab",
+        "price": 4499,
+        "status": null,
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Durock V3 Stabilizers for Keyboard + Random Lubed Stabs In BoxOpens in a new window or tab",
+        "price": 1998,
+        "status": null,
+        "shipping": 600,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Corsair K95 Platinum Replacement Key Caps OEM - SINGLESOpens in a new window or tab",
+        "price": 299,
+        "status": null,
+        "shipping": 702,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Authentic GMK Masterpiece Desk Mat - Square (Brand New, Unopened)Opens in a new window or tab",
+        "price": 2500,
+        "status": null,
+        "shipping": 897,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "10pcs Red Linear Optical Switches Hot Swap Switch for Razer Huntsman KeyboardOpens in a new window or tab",
+        "price": 759,
+        "status": null,
+        "shipping": 199,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Womier Pudding Keycaps, PBT Shine Through Keycaps 165 Keys Set Custom WhiteOpens in a new window or tab",
+        "price": 1978,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Y-Fruitful Dazzling Backlit Black Mechanical Gaming Keyboard w/USB Wired K901Opens in a new window or tab",
+        "price": 2707,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingUma Musume Pretty Derby Special Week Keycaps 122pcs Set for Mechanical KeyboardOpens in a new window or tab",
+        "price": 4610,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingErgonomic Wireless Keyboard with Wrist Rest, Low-Profile, Quiet for PC & MacOpens in a new window or tab",
+        "price": 4512,
+        "status": null,
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Magicforce 21-Key Mechanical Numpad V2 Switch Cherry MDX-29819-1Opens in a new window or tab",
+        "price": 2499,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "104 Keys K556 Mechanical Keyboard with RGB Backlighting & Tactile Brown SwitchOpens in a new window or tab",
+        "price": 7598,
+        "status": null,
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "HP GK100 MECHANICAL GAMING KEYBOARD - BLACKOpens in a new window or tab",
+        "price": 4794,
+        "status": null,
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Monsgeek M6 65% Compact Wired Mechanical Keyboard 65% (Alice Style Barebone)Opens in a new window or tab",
+        "price": 11995,
+        "status": null,
+        "shipping": 802,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "VIVITAR MECHANICAL KEYBOARD CAPS 2024 (BALLS) BRAND NEW AND FACTORY SEALEDOpens in a new window or tab",
+        "price": 639,
+        "status": null,
+        "shipping": 500,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "IBM Model M Keyboard Genuine New, key Stems or Buckling springsOpens in a new window or tab",
+        "price": 110,
+        "status": null,
+        "shipping": 499,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New Listing9-Key Switch Tester Mechanical Keyboard Sampler Keycap Switch for Cherry MXOpens in a new window or tab",
+        "price": 1597,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Razer PBT Keycap Upgrade Set - MercuryOpens in a new window or tab",
+        "price": 2899,
+        "status": null,
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Replacement Mechanical Keyboard USB Cable Wire For Logitech G710 Gaming KeyboardOpens in a new window or tab",
+        "price": 1299,
+        "status": null,
+        "shipping": 500,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingSwitch Puller Remover Keycaps Tool for Cherry Kailh Gateron Mechanical KeyboardOpens in a new window or tab",
+        "price": 1120,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "Keycap Puller Switch Pluller W/ Keyboard Cleaning Brush For Mechanical KeyboardOpens in a new window or tab",
+        "price": 798,
+        "status": null,
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "OEM key caps for Logitech G910 Orion Spectrum RGB Mechanical Gaming KeyboardOpens in a new window or tab",
+        "price": 400,
+        "status": null,
+        "shipping": 552,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "127Pcs/Set Blue Rabbit Full Size Key Caps PBT Keycaps Mechanical Keyboard XDAOpens in a new window or tab",
+        "price": 3568,
+        "status": null,
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "New Listing4-key Keypad Keyboard USB Mini Mechanical Keyboard DIY Custom Shortcut Macro eOpens in a new window or tab",
+        "price": 1614,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "NEW Replacement keycaps for Corsair K65 LUX RGB Mechanical Gaming KeyboardOpens in a new window or tab",
+        "price": 499,
+        "status": null,
+        "shipping": 499,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingWireless Mechanical Keyboard BT5.0/2.4GHz/USB RGB HotSwappable Black WhiteOpens in a new window or tab",
+        "price": 5925,
+        "status": null,
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Ranked Keyboard Hand Selected Mechanical 90 Pk. SwitchesOpens in a new window or tab",
+        "price": 2999,
+        "status": null,
+        "shipping": 599,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "For Cherry MX Red RGB Mechanical Keyboard Switches LotOpens in a new window or tab",
+        "price": 899,
+        "status": null,
+        "shipping": 399,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "MassDrop X OLKB Planck Keyboard Silver CNC Aluminum case MDX-11894-SLVCNCCSOpens in a new window or tab",
+        "price": 2099,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "White Jade Keycaps 160 Keys Double Shot PBT RSA Profile Translucent SetOpens in a new window or tab",
+        "price": 3713,
+        "status": null,
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "K521 Upgrade Rainbow LED Gaming Keyboard, 104 Keys Wired Mechanical Feeling K...Opens in a new window or tab",
+        "price": 2576,
+        "status": null,
+        "shipping": 0,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "New ListingAnne Pro 2 Mechanical Keyboard Black Illuminated Wired Bluetooth Dual ModeOpens in a new window or tab",
+        "price": 18500,
+        "status": null,
+        "shipping": 1520,
+        "free_returns": null,
+        "items_sold": null
+    },
+    {
+        "name": "AULA F106 PRO Wireless Mechanical Keyboard Full Size Gaming with Hot SwappableOpens in a new window or tab",
+        "price": 10499,
+        "status": null,
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    }
+]

@@ -1,36 +1,37 @@
 import argparse
-import requests
 import json
+import time
+from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
+from webdriver_manager.chrome import ChromeDriverManager
 from bs4 import BeautifulSoup
 
-# --------------------------------------------------
-# STEP 1: Get search term from command line
-# --------------------------------------------------
+# Get search term from command line
 parser = argparse.ArgumentParser()
 parser.add_argument('search_term')
-parser.add_argument('--csv', action='store_true')  # extra credit flag
+parser.add_argument('--csv', action='store_true')
 args = parser.parse_args()
 
-# --------------------------------------------------
-# STEP 2: Loop through 10 pages of eBay results
-# --------------------------------------------------
+# Set up Chrome browser
+options = webdriver.ChromeOptions()
+options.add_argument('--no-sandbox')
+options.add_argument('--disable-dev-shm-usage')
+driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
+
 search_query = args.search_term.replace(' ', '+')
 all_items = []
 
 for page in range(1, 11):
     print(f'Scraping page {page}...')
     url = f'https://www.ebay.com/sch/i.html?_nkw={search_query}&_pgn={page}'
-    
-    headers = {'User-Agent': 'Mozilla/5.0'}
-    response = requests.get(url, headers=headers)
-    soup = BeautifulSoup(response.text, 'html.parser')
+    driver.get(url)
+    time.sleep(4)
 
-    # --------------------------------------------------
-    # STEP 3: Find all listings on the page
-    # --------------------------------------------------
-    listings = soup.select('.s-item')
+    soup = BeautifulSoup(driver.page_source, 'html.parser')
+    cards = soup.select('.s-card')
+    print(f'  Found {len(cards)} listings')
 
-    for listing in listings:
+    for card in cards:
         item = {
             'name': None,
             'price': None,
@@ -41,60 +42,58 @@ for page in range(1, 11):
         }
 
         # NAME
-        name_tag = listing.select_one('.s-item__title')
+        name_tag = card.select_one('.s-card__title')
         if name_tag:
-            item['name'] = name_tag.text.strip()
+            item['name'] = name_tag.get_text(strip=True)
 
-        # PRICE (convert to cents, stored as int)
-        price_tag = listing.select_one('.s-item__price')
+        # PRICE
+        price_tag = card.select_one('.s-card__price')
         if price_tag:
-            price_text = price_tag.text.strip()
-            # Handle ranges like "$54.99 to $79.99" — just grab first number
-            price_text = price_text.split(' ')[0]
+            price_text = price_tag.get_text(strip=True).split(' ')[0]
             price_text = price_text.replace('$', '').replace(',', '')
             try:
                 item['price'] = int(float(price_text) * 100)
             except:
                 pass
 
-        # STATUS (Brand New, Pre-owned, etc.)
-        status_tag = listing.select_one('.SECONDARY_INFO')
-        if status_tag:
-            item['status'] = status_tag.text.strip()
+        # CHECK ALL ATTRIBUTE ROWS for status, shipping, free returns, items sold
+        rows = card.select('.s-card__attribute-row')
+        for row in rows:
+            text = row.get_text(strip=True)
 
-        # SHIPPING
-        ship_tag = listing.select_one('.s-item__shipping, .s-item__freeXDays')
-        if ship_tag:
-            ship_text = ship_tag.text.strip()
-            if 'free' in ship_text.lower():
-                item['shipping'] = 0
-            else:
-                ship_text = ship_text.replace('$', '').replace(',', '').split()[0]
+            # STATUS
+            if any(s in text for s in ['Brand New', 'Pre-owned', 'Refurbished', 'Open box']):
+                item['status'] = text
+
+            # SHIPPING
+            if 'delivery' in text.lower() or 'shipping' in text.lower():
+                if 'free' in text.lower():
+                    item['shipping'] = 0
+                else:
+                    price_part = text.replace('$', '').replace(',', '').split()[0]
+                    try:
+                        item['shipping'] = int(float(price_part) * 100)
+                    except:
+                        pass
+
+            # FREE RETURNS
+            if 'return' in text.lower():
+                item['free_returns'] = 'free' in text.lower()
+
+            # ITEMS SOLD
+            if 'sold' in text.lower():
+                sold_text = text.lower().replace('sold', '').replace(',', '').strip()
                 try:
-                    item['shipping'] = int(float(ship_text) * 100)
+                    item['items_sold'] = int(sold_text)
                 except:
                     pass
 
-        # FREE RETURNS
-        returns_tag = listing.select_one('.s-item__free-returns')
-        item['free_returns'] = returns_tag is not None
-
-        # ITEMS SOLD
-        sold_tag = listing.select_one('.s-item__hotness, .s-item__additionalItemHotness')
-        if sold_tag and 'sold' in sold_tag.text.lower():
-            sold_text = sold_tag.text.strip().replace(',', '').split()[0]
-            try:
-                item['items_sold'] = int(sold_text)
-            except:
-                pass
-
         all_items.append(item)
 
+driver.quit()
 print(f'Total items scraped: {len(all_items)}')
 
-# --------------------------------------------------
-# STEP 4: Save to JSON (or CSV for extra credit)
-# --------------------------------------------------
+# Save output
 filename_base = args.search_term.replace(' ', '_')
 
 if args.csv:
@@ -104,10 +103,9 @@ if args.csv:
         writer = csv.DictWriter(f, fieldnames=all_items[0].keys())
         writer.writeheader()
         writer.writerows(all_items)
-    print(f'Saved to {filename}')
 else:
     filename = filename_base + '.json'
     with open(filename, 'w') as f:
         json.dump(all_items, f, indent=4)
-    print(f'Saved to {filename}')
-    
+
+print(f'Saved to {filename}')
