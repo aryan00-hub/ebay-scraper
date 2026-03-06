@@ -2,6 +2,9 @@
 
 This script scrapes eBay search results and saves them as a JSON file.
 
+## Note
+eBay's bot detection blocks the `requests` library and returns a CAPTCHA page. `selenium` is used instead to fetch pages, which opens a real Chrome browser to bypass the bot detection.
+
 ## How to Run
 ```bash
 python3 ebay-dl.py "spiderman comic"
