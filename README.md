@@ -12,7 +12,7 @@ This project scrapes eBay search results and converts listing HTML into structur
 
 ## Install Dependencies
 ```bash
-python3 -m pip install requests beautifulsoup4 selenium webdriver-manager
+python3 -m python3 -m pip install requests beautifulsoup4
 ```
 
 ## How to Run
