@@ -5,14 +5,23 @@ This project scrapes eBay search results and converts listing HTML into structur
 ## What `ebay-dl.py` does
 
 - Uses `argparse` to read a search term from the command line
-- Uses `selenium` to download eBay search result pages (eBay blocks the `requests` library with a CAPTCHA, so selenium is used to open a real Chrome browser instead)
+- Uses `requests` to download eBay search result pages
 - Uses `BeautifulSoup` (`bs4`) to parse listing data
-- Extracts each item into a dictionary with keys: `name`, `price` (integer cents), `status`, `shipping` (integer cents, `0` for free), `free_returns` (boolean), `items_sold` (integer)
-- Writes output as JSON by default, or CSV with `--csv`
+- Extracts each item into a dictionary with keys:
+  - `name`
+  - `price` (integer cents)
+  - `status`
+  - `shipping` (integer cents, `0` for free shipping)
+  - `free_returns` (boolean)
+  - `items_sold` (integer)
+- Writes output as JSON by default
+- Supports CSV output with `--csv`
+
+If a listing is missing a field, the key is still included and the value is `null` (or blank in CSV).
 
 ## Install Dependencies
 ```bash
-python3 -m python3 -m pip install requests beautifulsoup4
+python3 -m pip install requests beautifulsoup4
 ```
 
 ## How to Run
